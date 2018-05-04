@@ -1,82 +1,86 @@
-#include <TimerOne.h>
+showNum(13456.8);
 
-#define NDIGITS         8
-#define NDIGITS_MASK    7
+int latchPin = 13;//ST_CP
+int clockPin = 12;//SH_CP 
+int dataPin = 11; //DS 
 
-const int latchpin = 12 ;       // connect to RCK
-const int clockpin = 11 ;       // connect to SCK
-const int datapin = 10 ;        // connect to DIO
-
-byte col[NDIGITS] = {
-    0b10000000,
-    0b01000000,
-    0b00100000,
-    0b00010000,
-    0b00001000,
-    0b00000100,
-    0b00000010,
-    0b00000001
-} ;
-
-byte seg[] = {
-    0b11000000,  // 0
-    0b11111001,  // 1
-    0b10100100,  // 2
-    0b10110000,  // 3
-    0b10011001,  // 4
-    0b10010010,  // 5
-    0b10000010,  // 6
-    0b11111000,  // 7
-    0b10000000,  // 8
-    0b10010000,  // 9  
-} ;     
-
-byte segbuf[NDIGITS] ;
-int segcnt = 0;
-
-void
-LED_irq(void)
+bool count_flag = FALSE;
+bool reset_flag = FALSE;
+ 
+void setup ()
 {
-    digitalWrite(latchpin, LOW);
+pinMode(latchPin,OUTPUT);
+pinMode(clockPin,OUTPUT);
+pinMode(dataPin,OUTPUT); 
 
-    // select the digit...
-    shiftOut(datapin, clockpin, MSBFIRST, col[segcnt]) ;
-    // and select the segments
-    shiftOut(datapin, clockpin, MSBFIRST, segbuf[segcnt]) ;
+}
+ 
+void displayNum(int Num_Dis, int Num_Pos, int Num_Dec) // function display(number, pos, decimal(if not))
+{
+int Num_Dis_B = 0;
+int Num_Pos_B = 0;
+switch (Num_Dis) // convert to binary 
+{
+case 0:Num_Dis_B = 192;break;
+case 1:Num_Dis_B = 249;break;
+case 2:Num_Dis_B = 164;break;
+case 3:Num_Dis_B = 176;break;
+case 4:Num_Dis_B = 153;break;
+case 5:Num_Dis_B = 146;break;
+case 6:Num_Dis_B = 130;break;
+case 7:Num_Dis_B = 248;break;
+case 8:Num_Dis_B = 128;break;
+case 9:Num_Dis_B = 144;break;
+default: Num_Dis_B = 255;break;
+};
 
-    digitalWrite(latchpin, HIGH) ;
-    segcnt ++ ;
-    segcnt &= NDIGITS_MASK ;
+switch (Num_Pos)
+{
+case 1:Num_Pos_B = 1;break;
+case 2:Num_Pos_B = 2;break;
+case 3:Num_Pos_B = 4;break;
+case 4:Num_Pos_B = 8;break;
+case 5:Num_Pos_B = 16;break;
+case 6:Num_Pos_B = 32;break;
+case 7:Num_Pos_B = 64;break;
+case 8:Num_Pos_B = 128;break;
+default: Num_Pos_B = 0;break;
+};
+//this value convert to binary, which is the one light up now.
+if (Num_Dec == 1)
+{
+Num_Dis_B = Num_Dis_B + 128;
+};
+//========================================
+digitalWrite(latchPin,LOW); 
+
+// set latch to low tolet the display ready to receive data
+int L = Num_Dis_B; int R = Num_Pos_B;
+shiftOut(dataPin,clockPin,MSBFIRST,R);
+shiftOut(dataPin,clockPin,MSBFIRST,L);
+digitalWrite(latchPin,HIGH); //restore to high TTL back
+//========================================
+delayMicroseconds(100);
+}
+void showNum(float number)
+
+{
+
+int ShowNumber [4];
+ShowNumber[4] = (num/1000)%10;
+ShowNumber[3] = (num/100)%10;
+ShowNumber[2] = (num/10)%10;
+ShowNumber[1]= (num/1)%10;
+ 
+displayNum(ShowNumber[1],1,0);
+displayNum(ShowNumber[2],2,0);
+displayNum(ShowNumber[3],3,0);
+displayNum(ShowNumber[4],4,0);
+
+}
+ 
+void loop()
+{
+    
 }
 
-void
-setup()
-{
-    // setup all the data pins...
-
-    pinMode(latchpin, OUTPUT) ;
-    pinMode(clockpin, OUTPUT) ;
-    pinMode(datapin, OUTPUT) ;
-
-    // Initialize the segment buffers...
-
-    for (int i=0; i<8; i++)
-        segbuf[i] = seg[i] ; 
-
-    Serial.begin(9600) ;
-    Serial.println("8x7 TEST") ;
-
-    Timer1.initialize(4000);      // 4 ms
-    Timer1.attachInterrupt(LED_irq) ;
-    Timer1.start() ;
-
-    // Should auto-run at this point... 
-}
-
-
-void
-loop()
-{
-    Serial.println("Looping...") ;
-    delay(1000) ;
-}
