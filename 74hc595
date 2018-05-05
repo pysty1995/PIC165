@@ -20,7 +20,6 @@ int up_button = 0;
 int setup_button = 1; 
 
 boolean count_flag = false;
-boolean reset_flag = false;
 boolean setup_status = false;
 int threshold = 0;
 int reset_button_status, down, up, setup;
