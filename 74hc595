@@ -8,7 +8,8 @@ nút 2 _ cài đặt thời gian đóng relay tính bằng s
 nút 3 _ tăng time
 nút 4 _ giảm time
 */
-
+#define BAT HIGH
+#define TAT LOW
 
 int latchPin = 6;//ST_CP
 int clockPin = 7;//SH_CP 
@@ -20,8 +21,9 @@ int setup_button = 1;
 
 boolean count_flag = false;
 boolean reset_flag = false;
+boolean setup_status = false;
 int threshold = 0;
- 
+int reset_button_status, down, up, setup;
 void setup ()
 {
 pinMode(latchPin,OUTPUT);
@@ -32,9 +34,10 @@ pinMode(reset_button, INPUT_PULLUP);
 pinMode(down_button, INPUT_PULLUP);
 pinMode(up_button, INPUT_PULLUP);
 pinMode(setup_button, INPUT_PULLUP);
+pinMode(cambien1, INPUT_PULLUP);
 }
  
-void displayNum(int Num_Dis, int Num_Pos, int Num_Dec) // function display(number, pos, decimal(if not))
+void displayNum(int Num_Dis, int Num_Pos, int Num_Dec) //  displayNum(number, pos, decimal(if not))
 {
 int Num_Dis_B = 0;
 int Num_Pos_B = 0;
@@ -65,7 +68,7 @@ case 7:Num_Pos_B = 64;break;
 case 8:Num_Pos_B = 128;break;
 default: Num_Pos_B = 0;break;
 };
-//this value convert to binary, which is the one light up now.
+
 if (Num_Dec == 1)
 {
 Num_Dis_B = Num_Dis_B + 128;
@@ -73,11 +76,10 @@ Num_Dis_B = Num_Dis_B + 128;
 //========================================
 digitalWrite(latchPin,LOW); 
 
-// set latch to low tolet the display ready to receive data
 int L = Num_Dis_B; int R = Num_Pos_B;
 shiftOut(dataPin,clockPin,MSBFIRST,R);
 shiftOut(dataPin,clockPin,MSBFIRST,L);
-digitalWrite(latchPin,HIGH); //restore to high TTL back
+digitalWrite(latchPin,HIGH); 
 //========================================
 delayMicroseconds(100);
 }
@@ -85,7 +87,7 @@ void showNum(int number)
 
 {
 
-int ShowNumber [4];
+int ShowNumber[4];
 ShowNumber[4] = (number/1000)%10;
 ShowNumber[3] = (number/100)%10;
 ShowNumber[2] = (number/10)%10;
@@ -97,9 +99,72 @@ displayNum(ShowNumber[3],3,0);
 displayNum(ShowNumber[4],4,0);
 
 }
- 
+void delay_timer(int numb){
+    int number[3];
+    number[1] = (numb/1)%10;
+    number[2] = (numb/10)%10;
+    number[3] = (numb/100)%100;
+    displayNum(number[1], 5, 0);
+    displayNum(number[2], 6, 0);
+    displayNum(number[3], 7, 0);
+}
 void loop()
-{
+{   
+    unsigned int delay_time = 10; // timer mac dinh
+    unsigned int counter = 0;
+    unsigned int setting;
+    int value = analogRead(cambien1);
+    reset_button_status = digitalRead(reset_button);
+    up = digitalRead(up_button);
+    down = digitalRead(down_button);
+    setup = digitalRead(setup_button);
+    if(reset_button_status == LOW){
+        delay(1500);
+        reset_flag = true;
+        showNum(0);
+    }
+    if(reset_button_status == HIGH)
+    reset_flag = false;
+    if(reset_button_status == LOW){
+     setting = 0;
+     delay(10);
+     if(reset_button_status == HIGH) {
+         setting = setting + 1;
+     }
+     if(setting = 1){
+        delay_timer(0); // reset lai timer, cho phep edit timer
+        if(up == LOW){
+        delay(10);
+        if(up == HIGH){
+            delay_time = delay_time + 1;
+        }
+    }
+    if(down == LOW){
+        delay(10);
+        if(down == HIGH){
+            delay_time = delay_time - 1;     
+        }
+    }
+    delay_timer(delay_time);
+     }
+    if(setting = 2){
+        delay_timer(delay_time);
+        setting = 0;
+    }  
     
+    if(value > threshold){ // co san pham
+        count_flag = true;
+    }
+    if(count_flag == true){
+       counter = counter + 1;
+        showNum(counter);
+
+    }
+    if(value < threshold){ // khong co san pham
+    count_flag = false;
+    digitalWrite(out1, BAT);
+    delay(delay_time);
+    }
+
 }
 
