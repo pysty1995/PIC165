@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=I/O Check Tool
+Name[ja_JP]=I/Oチェックツール
+Name[en]=I/O Check Tool
+Icon=utilities-system-monitor-symbolic
+Exec=/home/pi/CravisMini/tools/GUI/IOCheck/IOCheck.sh
+Comment[ja_JP]=
+StartupNotify=true

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Environment Settings Tool
+Name[ja_JP]=環境設定ツール
+Name[en]=Environment Settings Tool
+Icon=preferences-system-network-proxy-symbolic
+Exec="/home/pi/CravisMini/tools/GUI/EnvTool/EnvTool.sh"
+Comment[ja_JP]=
+StartupNotify=true

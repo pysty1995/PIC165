@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Self Check Tool
+Name[ja_JP]=自己診断ツール
+Name[en]=Self Check Tool
+Icon=preferences-desktop-accessibility-symbolic
+Exec=lxterminal -t "CRAVIS-mini 自己診断ツール" -e /home/pi/CravisMini/tools/selfcheck/selfTest.sh
+Comment[ja_JP]=
+StartupNotify=true

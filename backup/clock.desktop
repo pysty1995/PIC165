@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Clock Settings Tool
+Name[ja_JP]=時刻設定ツール
+Name[en]=Clock Settings Tool
+Icon=preferences-desktop-screensaver-symbolic
+Exec=/home/pi/CravisMini/tools/GUI/Clock/Clock.sh
+Comment[ja_JP]=
+StartupNotify=true

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Script Management Tool
+Name[ja_JP]=スクリプト管理ツール
+Name[en]=Script Management Tool
+Icon=system-file-manager-symbolic
+Exec=/home/pi/CravisMini/tools/GUI/Manager/ScriptManager.sh
+Comment[ja_JP]=
+StartupNotify=true

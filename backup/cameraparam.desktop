@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Camera Settings Tool
+Name[ja_JP]=カメラ設定ツール
+Name[en]=Camera Settings Tool
+Icon=applets-screenshooter-symbolic
+Exec=lxterminal -t "CRAVIS-mini Camera Settings Tool" -e /home/pi/CravisMini/tools/GUI/CameraParam/CameraSetUp.sh
+Comment[ja_JP]=
+StartupNotify=true
