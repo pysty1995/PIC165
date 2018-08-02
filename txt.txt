@@ -1,0 +1,28 @@
+Change proxy:
+ cd /etc/apt/apt.conf.d
+ sudo nano 10proxy
+	Acquire::http::Proxy "http://cvn\v112032:!Nguyenthihang93@192.168.173.71:10080/";
+	Acquire::https::Proxy "http://cvn\v112032:!Nguyenthihang93@192.168.173.71:10080/";
+	Acquire::ftp::Proxy "http://cvn\v112032:!Nguyenthihang93@192.168.173.71:10080/";
+	Acquire::ssl::Proxy "http://cvn\v112032:!Nguyenthihang93@192.168.173.71:10080/";
+	Acquire::socks::Proxy "http://cvn\v112032:!Nguyenthihang93@192.168.173.71:10080/";
+Change environment for chromnium:
+  sudo nano /etc/environment
+  	export http_proxy=http://cvn\v112032:!Nguyenthihang93@192.168.173.71:10080
+	export https_proxy=http://cvn\v112032:!Nguyenthihang93@192.168.173.71:10080
+	export ftp_proxy=http://cvn\v112032:!Nguyenthihang93@192.168.173.71:10080
+	export socks_proxy=http://cvn\v112032:!Nguyenthihang93@192.168.173.71:10080
+	export all_proxy=http://cvn\v112032:!Nguyenthihang93@192.168.173.71:10080
+Install via pip:
+	sudo apt-get install python3-pip
+    	sudo apt-get install python3-picamera
+	pip install numpy
+ 	sudo apt-get install libjpeg-dev libtiff5-dev libjasper-dev libpng12-dev
+	sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
+	sudo apt-get install libxvidcore-dev libx264-dev	
+	sudo apt-get install libatlas-base-dev gfortran
+	sudo apt-get install libqtgui4
+	sudo apt-get install qt4-dev-tools
+	pip3 install opencv-python 
+List all packages:
+	dpkg-query -l> /home/pi/Desktop/list_packages.txt
