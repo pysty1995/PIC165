@@ -1,0 +1,11 @@
+start_col:__350
+start_row:__010 
+end_col:____900
+end_row:____800
+threshold:__500 
+lower_h:____110
+lower_s:____050
+lower_v:____050
+upper_h:____130
+upper_s:____255
+upper_v:____255 
