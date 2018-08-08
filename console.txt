@@ -1,0 +1,2406 @@
+
+Begin processing 20180729-02-43-46
+valueAnalyze = 0 20180729-02-43-47
+varDebug = False 20180729-02-43-47
+Done processing 20180729-02-43-47 
+ 
+Begin processing 20180729-02-43-49
+valueAnalyze = 0 20180729-02-43-50
+varDebug = False 20180729-02-43-50
+Done processing 20180729-02-43-51 
+ 
+Begin processing 20180729-02-43-53
+valueAnalyze = 0 20180729-02-43-54
+varDebug = False 20180729-02-43-54
+Done processing 20180729-02-43-54 
+ 
+Begin processing 20180729-03-02-13
+valueAnalyze = 0 20180729-03-02-14
+varDebug = False 20180729-03-02-14
+Done processing 20180729-03-02-15 
+ 
+Begin processing 20180729-03-02-22
+valueAnalyze = 0 20180729-03-02-23
+varDebug = False 20180729-03-02-23
+Done processing 20180729-03-02-23 
+ 
+Begin processing 20180729-03-02-25
+valueAnalyze = 0 20180729-03-02-26
+varDebug = False 20180729-03-02-26
+Done processing 20180729-03-02-26 
+ 
+Begin processing 20180729-03-02-27
+valueAnalyze = 0 20180729-03-02-28
+varDebug = False 20180729-03-02-29
+Done processing 20180729-03-02-29 
+ 
+Begin processing 20180729-03-02-29
+valueAnalyze = 0 20180729-03-02-31
+varDebug = False 20180729-03-02-31
+Done processing 20180729-03-02-31 
+ 
+Begin processing 20180729-03-02-32
+valueAnalyze = 0 20180729-03-02-33
+varDebug = False 20180729-03-02-34
+Done processing 20180729-03-02-34 
+ 
+Begin processing 20180729-03-02-34
+valueAnalyze = 0 20180729-03-02-36
+varDebug = False 20180729-03-02-36
+Done processing 20180729-03-02-36 
+ 
+Begin processing 20180729-03-02-37
+valueAnalyze = 0 20180729-03-02-38
+varDebug = False 20180729-03-02-38
+Done processing 20180729-03-02-38 
+ 
+Begin processing 20180729-03-02-39
+valueAnalyze = 0 20180729-03-02-40
+varDebug = False 20180729-03-02-40
+Done processing 20180729-03-02-40 
+ 
+Begin processing 20180729-03-02-41
+valueAnalyze = 0 20180729-03-02-43
+varDebug = False 20180729-03-02-43
+Done processing 20180729-03-02-43 
+ 
+Begin processing 20180729-03-02-45
+valueAnalyze = 0 20180729-03-02-47
+varDebug = False 20180729-03-02-47
+Done processing 20180729-03-02-47 
+ 
+Begin processing 20180729-03-02-49
+valueAnalyze = 0 20180729-03-02-50
+varDebug = False 20180729-03-02-50
+Done processing 20180729-03-02-50 
+ 
+Begin processing 20180729-03-02-51
+valueAnalyze = 0 20180729-03-02-53
+varDebug = False 20180729-03-02-53
+Done processing 20180729-03-02-53 
+ 
+Begin processing 20180729-03-03-05
+valueAnalyze = 0 20180729-03-03-06
+varDebug = False 20180729-03-03-06
+Done processing 20180729-03-03-06 
+ 
+Begin processing 20180729-03-03-12
+valueAnalyze = 0 20180729-03-03-13
+varDebug = False 20180729-03-03-13
+Done processing 20180729-03-03-13 
+ 
+Begin processing 20180729-03-13-01
+valueAnalyze = 0 20180729-03-13-02
+varDebug = False 20180729-03-13-02
+Done processing 20180729-03-13-02 
+ 
+Begin processing 20180729-03-13-02
+valueAnalyze = 0 20180729-03-13-03
+varDebug = False 20180729-03-13-04
+Done processing 20180729-03-13-04 
+ 
+Begin processing 20180729-03-13-06
+valueAnalyze = 0 20180729-03-13-07
+varDebug = False 20180729-03-13-08
+Done processing 20180729-03-13-08 
+ 
+Begin processing 20180729-03-13-08
+valueAnalyze = 0 20180729-03-13-09
+varDebug = False 20180729-03-13-09
+Done processing 20180729-03-13-09 
+ 
+Begin processing 20180729-03-13-12
+valueAnalyze = 0 20180729-03-13-13
+varDebug = False 20180729-03-13-14
+Done processing 20180729-03-13-14 
+ 
+Begin processing 20180729-03-13-14
+valueAnalyze = 0 20180729-03-13-15
+varDebug = False 20180729-03-13-15
+Done processing 20180729-03-13-15 
+ 
+Begin processing 20180729-03-13-15
+valueAnalyze = 0 20180729-03-13-17
+varDebug = False 20180729-03-13-17
+Done processing 20180729-03-13-17 
+ 
+Begin processing 20180729-03-13-17
+valueAnalyze = 0 20180729-03-13-18
+varDebug = False 20180729-03-13-18
+Done processing 20180729-03-13-19 
+ 
+Begin processing 20180729-03-13-19
+valueAnalyze = 0 20180729-03-13-20
+varDebug = False 20180729-03-13-20
+Done processing 20180729-03-13-20 
+ 
+Begin processing 20180729-03-13-22
+valueAnalyze = 0 20180729-03-13-24
+varDebug = False 20180729-03-13-24
+Done processing 20180729-03-13-24 
+ 
+Begin processing 20180729-03-13-24
+valueAnalyze = 0 20180729-03-13-25
+varDebug = False 20180729-03-13-25
+Done processing 20180729-03-13-26 
+ 
+Begin processing 20180729-03-13-29
+valueAnalyze = 0 20180729-03-13-30
+varDebug = False 20180729-03-13-31
+Done processing 20180729-03-13-31 
+ 
+Begin processing 20180729-03-13-31
+valueAnalyze = 0 20180729-03-13-32
+varDebug = False 20180729-03-13-32
+Done processing 20180729-03-13-32 
+ 
+Begin processing 20180729-03-13-34
+valueAnalyze = 0 20180729-03-13-35
+varDebug = False 20180729-03-13-35
+Done processing 20180729-03-13-36 
+ 
+Begin processing 20180729-03-13-36
+valueAnalyze = 0 20180729-03-13-37
+varDebug = False 20180729-03-13-37
+Done processing 20180729-03-13-37 
+ 
+Begin processing 20180729-03-13-47
+valueAnalyze = 0 20180729-03-13-48
+varDebug = False 20180729-03-13-48
+Done processing 20180729-03-13-48 
+ 
+Begin processing 20180729-03-13-48
+valueAnalyze = 0 20180729-03-13-49
+varDebug = False 20180729-03-13-50
+Done processing 20180729-03-13-50 
+ 
+Begin processing 20180729-03-13-51
+valueAnalyze = 0 20180729-03-13-52
+varDebug = False 20180729-03-13-52
+Done processing 20180729-03-13-52 
+ 
+Begin processing 20180729-03-13-52
+valueAnalyze = 0 20180729-03-13-53
+varDebug = False 20180729-03-13-53
+Done processing 20180729-03-13-54 
+ 
+Begin processing 20180729-03-13-54
+valueAnalyze = 0 20180729-03-13-56
+varDebug = False 20180729-03-13-56
+Done processing 20180729-03-13-56 
+ 
+Begin processing 20180729-03-13-56
+valueAnalyze = 0 20180729-03-13-57
+varDebug = False 20180729-03-13-57
+Done processing 20180729-03-13-57 
+ 
+Begin processing 20180729-03-13-57
+valueAnalyze = 0 20180729-03-13-59
+varDebug = False 20180729-03-13-59
+Done processing 20180729-03-13-59 
+ 
+Begin processing 20180729-03-13-59
+valueAnalyze = 0 20180729-03-14-00
+varDebug = False 20180729-03-14-00
+Done processing 20180729-03-14-00 
+ 
+Begin processing 20180729-03-14-00
+valueAnalyze = 0 20180729-03-14-02
+varDebug = False 20180729-03-14-02
+Done processing 20180729-03-14-02 
+ 
+Begin processing 20180729-03-14-02
+valueAnalyze = 0 20180729-03-14-03
+varDebug = False 20180729-03-14-03
+Done processing 20180729-03-14-04 
+ 
+Begin processing 20180729-03-14-04
+valueAnalyze = 0 20180729-03-14-05
+varDebug = False 20180729-03-14-06
+Done processing 20180729-03-14-06 
+ 
+Begin processing 20180729-03-14-06
+valueAnalyze = 0 20180729-03-14-07
+varDebug = False 20180729-03-14-07
+Done processing 20180729-03-14-07 
+ 
+Begin processing 20180729-03-14-07
+valueAnalyze = 0 20180729-03-14-08
+varDebug = False 20180729-03-14-09
+Done processing 20180729-03-14-09 
+ 
+Begin processing 20180729-03-14-10
+valueAnalyze = 0 20180729-03-14-11
+varDebug = False 20180729-03-14-11
+Done processing 20180729-03-14-11 
+ 
+Begin processing 20180729-03-14-11
+valueAnalyze = 0 20180729-03-14-12
+varDebug = False 20180729-03-14-13
+Done processing 20180729-03-14-13 
+ 
+Begin processing 20180729-03-14-13
+valueAnalyze = 0 20180729-03-14-14
+varDebug = False 20180729-03-14-14
+Done processing 20180729-03-14-14 
+ 
+Begin processing 20180729-03-14-15
+valueAnalyze = 0 20180729-03-14-17
+varDebug = False 20180729-03-14-17
+Done processing 20180729-03-14-17 
+ 
+Begin processing 20180729-03-14-17
+valueAnalyze = 0 20180729-03-14-18
+varDebug = False 20180729-03-14-18
+Done processing 20180729-03-14-18 
+ 
+Begin processing 20180729-03-14-19
+valueAnalyze = 0 20180729-03-14-20
+varDebug = False 20180729-03-14-21
+Done processing 20180729-03-14-21 
+ 
+Begin processing 20180729-03-14-21
+valueAnalyze = 0 20180729-03-14-22
+varDebug = False 20180729-03-14-22
+Done processing 20180729-03-14-22 
+ 
+Begin processing 20180729-03-14-22
+valueAnalyze = 0 20180729-03-14-23
+varDebug = False 20180729-03-14-24
+Done processing 20180729-03-14-24 
+ 
+Begin processing 20180729-03-14-25
+valueAnalyze = 0 20180729-03-14-26
+varDebug = False 20180729-03-14-26
+Done processing 20180729-03-14-26 
+ 
+Begin processing 20180729-03-14-26
+valueAnalyze = 0 20180729-03-14-28
+varDebug = False 20180729-03-14-28
+Done processing 20180729-03-14-28 
+ 
+Begin processing 20180729-03-14-28
+valueAnalyze = 0 20180729-03-14-29
+varDebug = False 20180729-03-14-29
+Done processing 20180729-03-14-29 
+ 
+Begin processing 20180729-03-14-31
+valueAnalyze = 0 20180729-03-14-32
+varDebug = False 20180729-03-14-32
+Done processing 20180729-03-14-32 
+ 
+Begin processing 20180729-03-14-32
+valueAnalyze = 0 20180729-03-14-33
+varDebug = False 20180729-03-14-34
+Done processing 20180729-03-14-34 
+ 
+Begin processing 20180729-03-15-31
+valueAnalyze = 0 20180729-03-15-32
+varDebug = False 20180729-03-15-32
+Done processing 20180729-03-15-33 
+ 
+Begin processing 20180729-03-15-35
+valueAnalyze = 0 20180729-03-15-36
+varDebug = False 20180729-03-15-37
+Done processing 20180729-03-15-37 
+ 
+Begin processing 20180729-03-15-39
+valueAnalyze = 0 20180729-03-15-40
+varDebug = False 20180729-03-15-40
+Done processing 20180729-03-15-40 
+ 
+Begin processing 20180729-03-16-24
+valueAnalyze = 0 20180729-03-16-26
+varDebug = False 20180729-03-16-26
+Done processing 20180729-03-16-26 
+ 
+Begin processing 20180729-03-16-26
+valueAnalyze = 0 20180729-03-16-27
+varDebug = False 20180729-03-16-27
+Done processing 20180729-03-16-28 
+ 
+Begin processing 20180729-03-16-30
+valueAnalyze = 0 20180729-03-16-31
+varDebug = False 20180729-03-16-31
+Done processing 20180729-03-16-31 
+ 
+Begin processing 20180729-03-16-31
+valueAnalyze = 0 20180729-03-16-33
+varDebug = False 20180729-03-16-33
+Done processing 20180729-03-16-33 
+ 
+Begin processing 20180729-03-42-45
+valueAnalyze = 0 20180729-03-42-46
+varDebug = False 20180729-03-42-46
+Done processing 20180729-03-42-46 
+ 
+Begin processing 20180729-03-42-47
+valueAnalyze = 0 20180729-03-42-48
+varDebug = False 20180729-03-42-48
+Done processing 20180729-03-42-48 
+ 
+Begin processing 20180729-03-42-49
+valueAnalyze = 0 20180729-03-42-50
+varDebug = False 20180729-03-42-50
+Done processing 20180729-03-42-50 
+ 
+Begin processing 20180729-03-42-50
+valueAnalyze = 0 20180729-03-42-51
+varDebug = False 20180729-03-42-52
+Done processing 20180729-03-42-52 
+ 
+Begin processing 20180729-04-34-40
+valueAnalyze = 0 20180729-04-34-42
+varDebug = False 20180729-04-34-42
+Done processing 20180729-04-34-42 
+ 
+Begin processing 20180729-04-34-45
+valueAnalyze = 0 20180729-04-34-46
+varDebug = False 20180729-04-34-47
+Done processing 20180729-04-34-47 
+ 
+Begin processing 20180729-04-35-32
+valueAnalyze = 0 20180729-04-35-33
+varDebug = False 20180729-04-35-33
+Done processing 20180729-04-35-34 
+ 
+Begin processing 20180729-04-35-35
+valueAnalyze = 0 20180729-04-35-36
+varDebug = False 20180729-04-35-36
+Done processing 20180729-04-35-36 
+ 
+Begin processing 20180729-04-35-40
+valueAnalyze = 0 20180729-04-35-41
+varDebug = False 20180729-04-35-41
+Done processing 20180729-04-35-42 
+ 
+Begin processing 20180729-04-35-42
+valueAnalyze = 0 20180729-04-35-43
+varDebug = False 20180729-04-35-44
+Done processing 20180729-04-35-44 
+ 
+Begin processing 20180729-04-35-44
+valueAnalyze = 0 20180729-04-35-46
+varDebug = False 20180729-04-35-46
+Done processing 20180729-04-35-46 
+ 
+Begin processing 20180729-04-35-47
+valueAnalyze = 0 20180729-04-35-48
+varDebug = False 20180729-04-35-48
+Done processing 20180729-04-35-48 
+ 
+Begin processing 20180729-04-35-49
+valueAnalyze = 0 20180729-04-35-50
+varDebug = False 20180729-04-35-50
+Done processing 20180729-04-35-51 
+ 
+Begin processing 20180729-04-35-51
+valueAnalyze = 0 20180729-04-35-52
+varDebug = False 20180729-04-35-53
+Done processing 20180729-04-35-53 
+ 
+Begin processing 20180729-04-35-55
+valueAnalyze = 0 20180729-04-35-56
+varDebug = False 20180729-04-35-56
+Done processing 20180729-04-35-56 
+ 
+Begin processing 20180729-04-35-59
+valueAnalyze = 0 20180729-04-36-00
+varDebug = False 20180729-04-36-00
+Done processing 20180729-04-36-01 
+ 
+Begin processing 20180729-04-36-30
+valueAnalyze = 0 20180729-04-36-31
+varDebug = False 20180729-04-36-31
+Done processing 20180729-04-36-31 
+ 
+Begin processing 20180729-04-36-33
+valueAnalyze = 0 20180729-04-36-34
+varDebug = False 20180729-04-36-34
+Done processing 20180729-04-36-34 
+ 
+Begin processing 20180729-04-36-36
+valueAnalyze = 0 20180729-04-36-37
+varDebug = False 20180729-04-36-37
+Done processing 20180729-04-36-37 
+ 
+Begin processing 20180729-04-36-38
+valueAnalyze = 0 20180729-04-36-39
+varDebug = False 20180729-04-36-39
+Done processing 20180729-04-36-39 
+ 
+Begin processing 20180729-04-36-41
+valueAnalyze = 0 20180729-04-36-42
+varDebug = False 20180729-04-36-42
+Done processing 20180729-04-36-42 
+ 
+Begin processing 20180729-04-36-59
+valueAnalyze = 0 20180729-04-37-00
+varDebug = False 20180729-04-37-01
+Done processing 20180729-04-37-01 
+ 
+Begin processing 20180729-04-37-15
+valueAnalyze = 0 20180729-04-37-17
+varDebug = False 20180729-04-37-17
+Done processing 20180729-04-37-17 
+ 
+Begin processing 20180729-04-37-17
+valueAnalyze = 0 20180729-04-37-18
+varDebug = False 20180729-04-37-18
+Done processing 20180729-04-37-19 
+ 
+Begin processing 20180729-04-37-25
+valueAnalyze = 0 20180729-04-37-27
+varDebug = False 20180729-04-37-27
+Done processing 20180729-04-37-27 
+ 
+Begin processing 20180729-04-37-27
+valueAnalyze = 0 20180729-04-37-28
+varDebug = False 20180729-04-37-28
+Done processing 20180729-04-37-29 
+ 
+Begin processing 20180729-04-37-29
+valueAnalyze = 0 20180729-04-37-30
+varDebug = False 20180729-04-37-30
+Done processing 20180729-04-37-30 
+ 
+Begin processing 20180729-04-37-30
+valueAnalyze = 0 20180729-04-37-31
+varDebug = False 20180729-04-37-31
+Done processing 20180729-04-37-32 
+ 
+Begin processing 20180729-04-37-32
+valueAnalyze = 0 20180729-04-37-33
+varDebug = False 20180729-04-37-33
+Done processing 20180729-04-37-33 
+ 
+Begin processing 20180729-04-37-34
+valueAnalyze = 0 20180729-04-37-35
+varDebug = False 20180729-04-37-35
+Done processing 20180729-04-37-36 
+ 
+Begin processing 20180729-04-37-36
+valueAnalyze = 0 20180729-04-37-37
+varDebug = False 20180729-04-37-37
+Done processing 20180729-04-37-37 
+ 
+Begin processing 20180729-04-37-45
+valueAnalyze = 0 20180729-04-37-46
+varDebug = False 20180729-04-37-47
+Done processing 20180729-04-37-47 
+ 
+Begin processing 20180729-04-37-47
+valueAnalyze = 0 20180729-04-37-48
+varDebug = False 20180729-04-37-48
+Done processing 20180729-04-37-48 
+ 
+Begin processing 20180729-04-37-51
+valueAnalyze = 0 20180729-04-37-52
+varDebug = False 20180729-04-37-52
+Done processing 20180729-04-37-53 
+ 
+Begin processing 20180729-04-37-53
+valueAnalyze = 0 20180729-04-37-54
+varDebug = False 20180729-04-37-54
+Done processing 20180729-04-37-54 
+ 
+Begin processing 20180729-04-37-55
+valueAnalyze = 0 20180729-04-37-57
+varDebug = False 20180729-04-37-57
+Done processing 20180729-04-37-57 
+ 
+Begin processing 20180729-04-37-57
+valueAnalyze = 0 20180729-04-37-58
+varDebug = False 20180729-04-37-58
+Done processing 20180729-04-37-59 
+ 
+Begin processing 20180729-04-38-00
+valueAnalyze = 0 20180729-04-38-01
+varDebug = False 20180729-04-38-01
+Done processing 20180729-04-38-01 
+ 
+Begin processing 20180729-04-38-01
+valueAnalyze = 0 20180729-04-38-02
+varDebug = False 20180729-04-38-03
+Done processing 20180729-04-38-03 
+ 
+Begin processing 20180729-04-38-06
+valueAnalyze = 0 20180729-04-38-07
+varDebug = False 20180729-04-38-07
+Done processing 20180729-04-38-07 
+ 
+Begin processing 20180729-04-38-07
+valueAnalyze = 0 20180729-04-38-08
+varDebug = False 20180729-04-38-09
+Done processing 20180729-04-38-09 
+ 
+Begin processing 20180729-04-38-10
+valueAnalyze = 0 20180729-04-38-11
+varDebug = False 20180729-04-38-11
+Done processing 20180729-04-38-11 
+ 
+Begin processing 20180729-04-38-11
+valueAnalyze = 0 20180729-04-38-13
+varDebug = False 20180729-04-38-13
+Done processing 20180729-04-38-13 
+ 
+Begin processing 20180729-04-38-14
+valueAnalyze = 0 20180729-04-38-15
+varDebug = False 20180729-04-38-16
+Done processing 20180729-04-38-16 
+ 
+Begin processing 20180729-04-38-16
+valueAnalyze = 0 20180729-04-38-17
+varDebug = False 20180729-04-38-17
+Done processing 20180729-04-38-17 
+ 
+Begin processing 20180729-04-38-19
+valueAnalyze = 0 20180729-04-38-20
+varDebug = False 20180729-04-38-20
+Done processing 20180729-04-38-20 
+ 
+Begin processing 20180729-04-38-20
+valueAnalyze = 0 20180729-04-38-21
+varDebug = False 20180729-04-38-22
+Done processing 20180729-04-38-22 
+ 
+Begin processing 20180729-04-38-24
+valueAnalyze = 0 20180729-04-38-25
+varDebug = False 20180729-04-38-25
+Done processing 20180729-04-38-25 
+ 
+Begin processing 20180729-04-38-25
+valueAnalyze = 0 20180729-04-38-26
+varDebug = False 20180729-04-38-26
+Done processing 20180729-04-38-27 
+ 
+Begin processing 20180729-04-38-28
+valueAnalyze = 0 20180729-04-38-29
+varDebug = False 20180729-04-38-29
+Done processing 20180729-04-38-29 
+ 
+Begin processing 20180729-04-38-29
+valueAnalyze = 0 20180729-04-38-31
+varDebug = False 20180729-04-38-31
+Done processing 20180729-04-38-31 
+ 
+Begin processing 20180729-04-38-33
+valueAnalyze = 0 20180729-04-38-34
+varDebug = False 20180729-04-38-35
+Done processing 20180729-04-38-35 
+ 
+Begin processing 20180729-04-38-35
+valueAnalyze = 0 20180729-04-38-36
+varDebug = False 20180729-04-38-36
+Done processing 20180729-04-38-36 
+ 
+Begin processing 20180729-04-38-38
+valueAnalyze = 0 20180729-04-38-39
+varDebug = False 20180729-04-38-39
+Done processing 20180729-04-38-39 
+ 
+Begin processing 20180729-04-38-39
+valueAnalyze = 0 20180729-04-38-40
+varDebug = False 20180729-04-38-40
+Done processing 20180729-04-38-41 
+ 
+Begin processing 20180729-04-38-42
+valueAnalyze = 0 20180729-04-38-43
+varDebug = False 20180729-04-38-43
+Done processing 20180729-04-38-44 
+ 
+Begin processing 20180729-04-38-44
+valueAnalyze = 0 20180729-04-38-45
+varDebug = False 20180729-04-38-45
+Done processing 20180729-04-38-45 
+ 
+Begin processing 20180729-04-38-47
+valueAnalyze = 0 20180729-04-38-48
+varDebug = False 20180729-04-38-48
+Done processing 20180729-04-38-48 
+ 
+Begin processing 20180729-04-38-48
+valueAnalyze = 0 20180729-04-38-49
+varDebug = False 20180729-04-38-49
+Done processing 20180729-04-38-49 
+ 
+Begin processing 20180729-04-38-54
+valueAnalyze = 0 20180729-04-38-55
+varDebug = False 20180729-04-38-55
+Done processing 20180729-04-38-55 
+ 
+Begin processing 20180729-04-38-55
+valueAnalyze = 0 20180729-04-38-56
+varDebug = False 20180729-04-38-56
+Done processing 20180729-04-38-57 
+ 
+Begin processing 20180729-04-38-57
+valueAnalyze = 0 20180729-04-38-58
+varDebug = False 20180729-04-38-58
+Done processing 20180729-04-38-58 
+ 
+Begin processing 20180729-04-38-59
+valueAnalyze = 0 20180729-04-39-00
+varDebug = False 20180729-04-39-00
+Done processing 20180729-04-39-01 
+ 
+Begin processing 20180729-04-39-01
+valueAnalyze = 0 20180729-04-39-02
+varDebug = False 20180729-04-39-02
+Done processing 20180729-04-39-02 
+ 
+Begin processing 20180729-04-39-04
+valueAnalyze = 0 20180729-04-39-05
+varDebug = False 20180729-04-39-06
+Done processing 20180729-04-39-06 
+ 
+Begin processing 20180729-04-39-06
+valueAnalyze = 0 20180729-04-39-07
+varDebug = False 20180729-04-39-07
+Done processing 20180729-04-39-07 
+ 
+Begin processing 20180729-04-39-08
+valueAnalyze = 0 20180729-04-39-09
+varDebug = False 20180729-04-39-10
+Done processing 20180729-04-39-10 
+ 
+Begin processing 20180729-04-39-10
+valueAnalyze = 0 20180729-04-39-11
+varDebug = False 20180729-04-39-11
+Done processing 20180729-04-39-11 
+ 
+Begin processing 20180729-04-39-13
+valueAnalyze = 0 20180729-04-39-14
+varDebug = False 20180729-04-39-15
+Done processing 20180729-04-39-15 
+ 
+Begin processing 20180729-04-39-15
+valueAnalyze = 0 20180729-04-39-16
+varDebug = False 20180729-04-39-16
+Done processing 20180729-04-39-16 
+ 
+Begin processing 20180729-04-40-24
+valueAnalyze = 0 20180729-04-40-25
+varDebug = False 20180729-04-40-25
+Done processing 20180729-04-40-25 
+ 
+Begin processing 20180729-04-40-25
+valueAnalyze = 0 20180729-04-40-26
+varDebug = False 20180729-04-40-27
+Done processing 20180729-04-40-27 
+ 
+Begin processing 20180729-04-40-28
+valueAnalyze = 0 20180729-04-40-29
+varDebug = False 20180729-04-40-29
+Done processing 20180729-04-40-29 
+ 
+Begin processing 20180729-04-40-29
+valueAnalyze = 0 20180729-04-40-30
+varDebug = False 20180729-04-40-31
+Done processing 20180729-04-40-31 
+ 
+Begin processing 20180729-04-40-32
+valueAnalyze = 0 20180729-04-40-33
+varDebug = False 20180729-04-40-33
+Done processing 20180729-04-40-33 
+ 
+Begin processing 20180729-04-40-33
+valueAnalyze = 0 20180729-04-40-34
+varDebug = False 20180729-04-40-35
+Done processing 20180729-04-40-35 
+ 
+Begin processing 20180729-04-40-35
+valueAnalyze = 0 20180729-04-40-36
+varDebug = False 20180729-04-40-36
+Done processing 20180729-04-40-36 
+ 
+Begin processing 20180729-04-40-38
+valueAnalyze = 0 20180729-04-40-39
+varDebug = False 20180729-04-40-39
+Done processing 20180729-04-40-39 
+ 
+Begin processing 20180729-04-40-39
+valueAnalyze = 0 20180729-04-40-41
+varDebug = False 20180729-04-40-41
+Done processing 20180729-04-40-41 
+ 
+Begin processing 20180729-04-40-42
+valueAnalyze = 0 20180729-04-40-43
+varDebug = False 20180729-04-40-43
+Done processing 20180729-04-40-43 
+ 
+Begin processing 20180729-04-40-43
+valueAnalyze = 0 20180729-04-40-45
+varDebug = False 20180729-04-40-45
+Done processing 20180729-04-40-45 
+ 
+Begin processing 20180729-04-40-46
+valueAnalyze = 0 20180729-04-40-47
+varDebug = False 20180729-04-40-47
+Done processing 20180729-04-40-47 
+ 
+Begin processing 20180729-04-40-47
+valueAnalyze = 0 20180729-04-40-48
+varDebug = False 20180729-04-40-49
+Done processing 20180729-04-40-49 
+ 
+Begin processing 20180729-04-40-52
+valueAnalyze = 0 20180729-04-40-53
+varDebug = False 20180729-04-40-53
+Done processing 20180729-04-40-53 
+ 
+Begin processing 20180729-04-40-53
+valueAnalyze = 0 20180729-04-40-55
+varDebug = False 20180729-04-40-55
+Done processing 20180729-04-40-55 
+ 
+Begin processing 20180729-04-40-56
+valueAnalyze = 0 20180729-04-40-57
+varDebug = False 20180729-04-40-58
+Done processing 20180729-04-40-58 
+ 
+Begin processing 20180729-04-40-58
+valueAnalyze = 0 20180729-04-40-59
+varDebug = False 20180729-04-40-59
+Done processing 20180729-04-40-59 
+ 
+Begin processing 20180729-04-41-01
+valueAnalyze = 0 20180729-04-41-02
+varDebug = False 20180729-04-41-03
+Done processing 20180729-04-41-03 
+ 
+Begin processing 20180729-04-41-03
+valueAnalyze = 0 20180729-04-41-04
+varDebug = False 20180729-04-41-04
+Done processing 20180729-04-41-04 
+ 
+Begin processing 20180729-04-41-06
+valueAnalyze = 0 20180729-04-41-07
+varDebug = False 20180729-04-41-07
+Done processing 20180729-04-41-07 
+ 
+Begin processing 20180729-04-41-07
+valueAnalyze = 0 20180729-04-41-08
+varDebug = False 20180729-04-41-09
+Done processing 20180729-04-41-09 
+ 
+Begin processing 20180729-04-52-13
+valueAnalyze = 0 20180729-04-52-15
+varDebug = False 20180729-04-52-15
+Done processing 20180729-04-52-15 
+ 
+Begin processing 20180729-04-52-15
+valueAnalyze = 0 20180729-04-52-16
+varDebug = False 20180729-04-52-16
+Done processing 20180729-04-52-17 
+ 
+Begin processing 20180729-04-52-17
+valueAnalyze = 0 20180729-04-52-18
+varDebug = False 20180729-04-52-18
+Done processing 20180729-04-52-18 
+ 
+Begin processing 20180729-04-52-19
+valueAnalyze = 0 20180729-04-52-20
+varDebug = False 20180729-04-52-20
+Done processing 20180729-04-52-20 
+ 
+Begin processing 20180729-04-52-20
+valueAnalyze = 0 20180729-04-52-22
+varDebug = False 20180729-04-52-22
+Done processing 20180729-04-52-22 
+ 
+Begin processing 20180729-04-52-22
+valueAnalyze = 0 20180729-04-52-23
+varDebug = False 20180729-04-52-23
+Done processing 20180729-04-52-23 
+ 
+Begin processing 20180729-04-52-25
+valueAnalyze = 0 20180729-04-52-26
+varDebug = False 20180729-04-52-26
+Done processing 20180729-04-52-26 
+ 
+Begin processing 20180729-04-52-26
+valueAnalyze = 0 20180729-04-52-27
+varDebug = False 20180729-04-52-28
+Done processing 20180729-04-52-28 
+ 
+Begin processing 20180729-04-52-28
+valueAnalyze = 0 20180729-04-52-29
+varDebug = False 20180729-04-52-29
+Done processing 20180729-04-52-29 
+ 
+Begin processing 20180729-04-52-31
+valueAnalyze = 0 20180729-04-52-32
+varDebug = False 20180729-04-52-32
+Done processing 20180729-04-52-33 
+ 
+Begin processing 20180729-04-52-33
+valueAnalyze = 0 20180729-04-52-34
+varDebug = False 20180729-04-52-34
+Done processing 20180729-04-52-34 
+ 
+Begin processing 20180729-04-52-34
+valueAnalyze = 0 20180729-04-52-35
+varDebug = False 20180729-04-52-36
+Done processing 20180729-04-52-36 
+ 
+Begin processing 20180729-04-52-36
+valueAnalyze = 0 20180729-04-52-37
+varDebug = False 20180729-04-52-38
+Done processing 20180729-04-52-38 
+ 
+Begin processing 20180729-04-52-38
+valueAnalyze = 0 20180729-04-52-39
+varDebug = False 20180729-04-52-39
+Done processing 20180729-04-52-39 
+ 
+Begin processing 20180729-04-52-39
+valueAnalyze = 0 20180729-04-52-40
+varDebug = False 20180729-04-52-41
+Done processing 20180729-04-52-41 
+ 
+Begin processing 20180729-04-52-41
+valueAnalyze = 0 20180729-04-52-42
+varDebug = False 20180729-04-52-42
+Done processing 20180729-04-52-42 
+ 
+Begin processing 20180729-04-52-42
+valueAnalyze = 0 20180729-04-52-43
+varDebug = False 20180729-04-52-44
+Done processing 20180729-04-52-44 
+ 
+Begin processing 20180729-04-52-44
+valueAnalyze = 0 20180729-04-52-45
+varDebug = False 20180729-04-52-45
+Done processing 20180729-04-52-45 
+ 
+Begin processing 20180729-04-52-45
+valueAnalyze = 0 20180729-04-52-47
+varDebug = False 20180729-04-52-47
+Done processing 20180729-04-52-47 
+ 
+Begin processing 20180729-04-52-47
+valueAnalyze = 0 20180729-04-52-48
+varDebug = False 20180729-04-52-48
+Done processing 20180729-04-52-49 
+ 
+Begin processing 20180729-04-52-49
+valueAnalyze = 0 20180729-04-52-50
+varDebug = False 20180729-04-52-50
+Done processing 20180729-04-52-50 
+ 
+Begin processing 20180729-04-52-50
+valueAnalyze = 0 20180729-04-52-51
+varDebug = False 20180729-04-52-52
+Done processing 20180729-04-52-52 
+ 
+Begin processing 20180729-04-52-52
+valueAnalyze = 0 20180729-04-52-53
+varDebug = False 20180729-04-52-53
+Done processing 20180729-04-52-53 
+ 
+Begin processing 20180729-04-52-53
+valueAnalyze = 0 20180729-04-52-54
+varDebug = False 20180729-04-52-55
+Done processing 20180729-04-52-55 
+ 
+Begin processing 20180729-04-52-55
+valueAnalyze = 0 20180729-04-52-56
+varDebug = False 20180729-04-52-56
+Done processing 20180729-04-52-56 
+ 
+Begin processing 20180729-04-53-04
+valueAnalyze = 0 20180729-04-53-05
+varDebug = False 20180729-04-53-06
+Done processing 20180729-04-53-06 
+ 
+Begin processing 20180729-04-53-06
+valueAnalyze = 0 20180729-04-53-07
+varDebug = False 20180729-04-53-07
+Done processing 20180729-04-53-07 
+ 
+Begin processing 20180729-04-53-10
+valueAnalyze = 0 20180729-04-53-11
+varDebug = False 20180729-04-53-11
+Done processing 20180729-04-53-12 
+ 
+Begin processing 20180729-04-53-12
+valueAnalyze = 0 20180729-04-53-13
+varDebug = False 20180729-04-53-13
+Done processing 20180729-04-53-13 
+ 
+Begin processing 20180729-04-53-13
+valueAnalyze = 0 20180729-04-53-14
+varDebug = False 20180729-04-53-15
+Done processing 20180729-04-53-15 
+ 
+Begin processing 20180729-04-53-16
+valueAnalyze = 0 20180729-04-53-17
+varDebug = False 20180729-04-53-18
+Done processing 20180729-04-53-18 
+ 
+Begin processing 20180729-04-53-18
+valueAnalyze = 0 20180729-04-53-19
+varDebug = False 20180729-04-53-19
+Done processing 20180729-04-53-19 
+ 
+Begin processing 20180729-04-53-22
+valueAnalyze = 0 20180729-04-53-23
+varDebug = False 20180729-04-53-23
+Done processing 20180729-04-53-23 
+ 
+Begin processing 20180729-04-53-23
+valueAnalyze = 0 20180729-04-53-24
+varDebug = False 20180729-04-53-25
+Done processing 20180729-04-53-25 
+ 
+Begin processing 20180729-04-53-28
+valueAnalyze = 0 20180729-04-53-30
+varDebug = False 20180729-04-53-30
+Done processing 20180729-04-53-30 
+ 
+Begin processing 20180729-04-53-30
+valueAnalyze = 0 20180729-04-53-31
+varDebug = False 20180729-04-53-31
+Done processing 20180729-04-53-32 
+ 
+Begin processing 20180729-04-53-33
+valueAnalyze = 0 20180729-04-53-34
+varDebug = False 20180729-04-53-34
+Done processing 20180729-04-53-34 
+ 
+Begin processing 20180729-04-53-34
+valueAnalyze = 0 20180729-04-53-35
+varDebug = False 20180729-04-53-36
+Done processing 20180729-04-53-36 
+ 
+Begin processing 20180729-04-53-37
+valueAnalyze = 0 20180729-04-53-39
+varDebug = False 20180729-04-53-39
+Done processing 20180729-04-53-39 
+ 
+Begin processing 20180729-04-53-39
+valueAnalyze = 0 20180729-04-53-40
+varDebug = False 20180729-04-53-40
+Done processing 20180729-04-53-40 
+ 
+Begin processing 20180729-04-53-41
+valueAnalyze = 0 20180729-04-53-42
+varDebug = False 20180729-04-53-42
+Done processing 20180729-04-53-43 
+ 
+Begin processing 20180729-04-53-43
+valueAnalyze = 0 20180729-04-53-44
+varDebug = False 20180729-04-53-44
+Done processing 20180729-04-53-44 
+ 
+Begin processing 20180729-04-53-45
+valueAnalyze = 0 20180729-04-53-46
+varDebug = False 20180729-04-53-47
+Done processing 20180729-04-53-47 
+ 
+Begin processing 20180729-04-53-47
+valueAnalyze = 0 20180729-04-53-48
+varDebug = False 20180729-04-53-48
+Done processing 20180729-04-53-48 
+ 
+Begin processing 20180729-04-53-51
+valueAnalyze = 0 20180729-04-53-52
+varDebug = False 20180729-04-53-52
+Done processing 20180729-04-53-52 
+ 
+Begin processing 20180729-04-53-52
+valueAnalyze = 0 20180729-04-53-54
+varDebug = False 20180729-04-53-54
+Done processing 20180729-04-53-54 
+ 
+Begin processing 20180729-04-53-55
+valueAnalyze = 0 20180729-04-53-56
+varDebug = False 20180729-04-53-57
+Done processing 20180729-04-53-57 
+ 
+Begin processing 20180729-04-53-57
+valueAnalyze = 0 20180729-04-53-58
+varDebug = False 20180729-04-53-58
+Done processing 20180729-04-53-58 
+ 
+Begin processing 20180729-04-54-04
+valueAnalyze = 0 20180729-04-54-05
+varDebug = False 20180729-04-54-06
+Done processing 20180729-04-54-06 
+ 
+Begin processing 20180729-04-54-06
+valueAnalyze = 0 20180729-04-54-07
+varDebug = False 20180729-04-54-07
+Done processing 20180729-04-54-07 
+ 
+Begin processing 20180729-04-54-11
+valueAnalyze = 0 20180729-04-54-12
+varDebug = False 20180729-04-54-13
+Done processing 20180729-04-54-13 
+ 
+Begin processing 20180729-04-54-13
+valueAnalyze = 0 20180729-04-54-14
+varDebug = False 20180729-04-54-14
+Done processing 20180729-04-54-14 
+ 
+Begin processing 20180729-04-54-15
+valueAnalyze = 0 20180729-04-54-17
+varDebug = False 20180729-04-54-17
+Done processing 20180729-04-54-17 
+ 
+Begin processing 20180729-04-54-17
+valueAnalyze = 0 20180729-04-54-18
+varDebug = False 20180729-04-54-18
+Done processing 20180729-04-54-18 
+ 
+Begin processing 20180729-04-54-20
+valueAnalyze = 0 20180729-04-54-22
+varDebug = False 20180729-04-54-22
+Done processing 20180729-04-54-22 
+ 
+Begin processing 20180729-04-54-22
+valueAnalyze = 0 20180729-04-54-23
+varDebug = False 20180729-04-54-23
+Done processing 20180729-04-54-24 
+ 
+Begin processing 20180729-05-01-33
+valueAnalyze = 0 20180729-05-01-34
+varDebug = False 20180729-05-01-34
+Done processing 20180729-05-01-34 
+ 
+Begin processing 20180729-05-01-34
+valueAnalyze = 0 20180729-05-01-35
+varDebug = False 20180729-05-01-36
+Done processing 20180729-05-01-36 
+ 
+Begin processing 20180729-05-01-38
+valueAnalyze = 0 20180729-05-01-40
+varDebug = False 20180729-05-01-40
+Done processing 20180729-05-01-40 
+ 
+Begin processing 20180729-05-01-40
+valueAnalyze = 0 20180729-05-01-41
+varDebug = False 20180729-05-01-41
+Done processing 20180729-05-01-41 
+ 
+Begin processing 20180729-05-01-42
+valueAnalyze = 0 20180729-05-01-44
+varDebug = False 20180729-05-01-44
+Done processing 20180729-05-01-44 
+ 
+Begin processing 20180729-05-01-44
+valueAnalyze = 0 20180729-05-01-45
+varDebug = False 20180729-05-01-45
+Done processing 20180729-05-01-46 
+ 
+Begin processing 20180729-05-01-51
+valueAnalyze = 0 20180729-05-01-52
+varDebug = False 20180729-05-01-53
+Done processing 20180729-05-01-53 
+ 
+Begin processing 20180729-05-01-53
+valueAnalyze = 0 20180729-05-01-54
+varDebug = False 20180729-05-01-54
+Done processing 20180729-05-01-54 
+ 
+Begin processing 20180729-05-01-55
+valueAnalyze = 0 20180729-05-01-56
+varDebug = False 20180729-05-01-56
+Done processing 20180729-05-01-57 
+ 
+Begin processing 20180729-05-01-57
+valueAnalyze = 0 20180729-05-01-58
+varDebug = False 20180729-05-01-58
+Done processing 20180729-05-01-58 
+ 
+Begin processing 20180729-05-02-01
+valueAnalyze = 0 20180729-05-02-02
+varDebug = False 20180729-05-02-02
+Done processing 20180729-05-02-02 
+ 
+Begin processing 20180729-05-02-02
+valueAnalyze = 0 20180729-05-02-04
+varDebug = False 20180729-05-02-04
+Done processing 20180729-05-02-04 
+ 
+Begin processing 20180729-05-02-07
+valueAnalyze = 0 20180729-05-02-09
+varDebug = False 20180729-05-02-09
+Done processing 20180729-05-02-09 
+ 
+Begin processing 20180729-05-02-09
+valueAnalyze = 0 20180729-05-02-10
+varDebug = False 20180729-05-02-10
+Done processing 20180729-05-02-11 
+ 
+Begin processing 20180729-05-02-12
+valueAnalyze = 0 20180729-05-02-13
+varDebug = False 20180729-05-02-13
+Done processing 20180729-05-02-14 
+ 
+Begin processing 20180729-05-02-14
+valueAnalyze = 0 20180729-05-02-15
+varDebug = False 20180729-05-02-15
+Done processing 20180729-05-02-15 
+ 
+Begin processing 20180729-05-02-15
+valueAnalyze = 0 20180729-05-02-16
+varDebug = False 20180729-05-02-17
+Done processing 20180729-05-02-17 
+ 
+Begin processing 20180729-05-02-17
+valueAnalyze = 0 20180729-05-02-18
+varDebug = False 20180729-05-02-18
+Done processing 20180729-05-02-18 
+ 
+Begin processing 20180729-05-02-18
+valueAnalyze = 0 20180729-05-02-19
+varDebug = False 20180729-05-02-20
+Done processing 20180729-05-02-20 
+ 
+Begin processing 20180729-05-02-20
+valueAnalyze = 0 20180729-05-02-22
+varDebug = False 20180729-05-02-22
+Done processing 20180729-05-02-22 
+ 
+Begin processing 20180729-05-02-22
+valueAnalyze = 0 20180729-05-02-23
+varDebug = False 20180729-05-02-23
+Done processing 20180729-05-02-23 
+ 
+Begin processing 20180729-05-06-30
+valueAnalyze = 0 20180729-05-06-31
+varDebug = False 20180729-05-06-31
+Done processing 20180729-05-06-31 
+ 
+Begin processing 20180729-05-06-31
+valueAnalyze = 0 20180729-05-06-33
+varDebug = False 20180729-05-06-33
+Done processing 20180729-05-06-33 
+ 
+Begin processing 20180729-05-06-35
+valueAnalyze = 0 20180729-05-06-36
+varDebug = False 20180729-05-06-36
+Done processing 20180729-05-06-36 
+ 
+Begin processing 20180729-05-06-36
+valueAnalyze = 0 20180729-05-06-37
+varDebug = False 20180729-05-06-38
+Done processing 20180729-05-06-38 
+ 
+Begin processing 20180729-05-06-38
+valueAnalyze = 0 20180729-05-06-39
+varDebug = False 20180729-05-06-39
+Done processing 20180729-05-06-39 
+ 
+Begin processing 20180729-05-06-39
+valueAnalyze = 0 20180729-05-06-41
+varDebug = False 20180729-05-06-41
+Done processing 20180729-05-06-41 
+ 
+Begin processing 20180729-05-06-42
+valueAnalyze = 0 20180729-05-06-43
+varDebug = False 20180729-05-06-43
+Done processing 20180729-05-06-43 
+ 
+Begin processing 20180729-05-06-43
+valueAnalyze = 0 20180729-05-06-44
+varDebug = False 20180729-05-06-45
+Done processing 20180729-05-06-45 
+ 
+Begin processing 20180729-05-06-46
+valueAnalyze = 0 20180729-05-06-47
+varDebug = False 20180729-05-06-48
+Done processing 20180729-05-06-48 
+ 
+Begin processing 20180729-05-06-48
+valueAnalyze = 0 20180729-05-06-49
+varDebug = False 20180729-05-06-49
+Done processing 20180729-05-06-49 
+ 
+Begin processing 20180729-05-06-50
+valueAnalyze = 0 20180729-05-06-51
+varDebug = False 20180729-05-06-52
+Done processing 20180729-05-06-52 
+ 
+Begin processing 20180729-05-06-52
+valueAnalyze = 0 20180729-05-06-53
+varDebug = False 20180729-05-06-53
+Done processing 20180729-05-06-53 
+ 
+Begin processing 20180729-05-17-14
+valueAnalyze = 0 20180729-05-17-15
+varDebug = False 20180729-05-17-15
+Done processing 20180729-05-17-16 
+ 
+Begin processing 20180729-05-17-16
+valueAnalyze = 0 20180729-05-17-17
+varDebug = False 20180729-05-17-17
+Done processing 20180729-05-17-17 
+ 
+Begin processing 20180729-05-17-18
+valueAnalyze = 0 20180729-05-17-19
+varDebug = False 20180729-05-17-19
+Done processing 20180729-05-17-20 
+ 
+Begin processing 20180729-05-17-20
+valueAnalyze = 0 20180729-05-17-21
+varDebug = False 20180729-05-17-21
+Done processing 20180729-05-17-21 
+ 
+Begin processing 20180729-05-17-22
+valueAnalyze = 0 20180729-05-17-23
+varDebug = False 20180729-05-17-23
+Done processing 20180729-05-17-23 
+ 
+Begin processing 20180729-05-17-23
+valueAnalyze = 0 20180729-05-17-25
+varDebug = False 20180729-05-17-25
+Done processing 20180729-05-17-25 
+ 
+Begin processing 20180729-05-17-26
+valueAnalyze = 0 20180729-05-17-27
+varDebug = False 20180729-05-17-27
+Done processing 20180729-05-17-28 
+ 
+Begin processing 20180729-05-17-28
+valueAnalyze = 0 20180729-05-17-29
+varDebug = False 20180729-05-17-29
+Done processing 20180729-05-17-29 
+ 
+Begin processing 20180729-05-17-45
+valueAnalyze = 0 20180729-05-17-47
+varDebug = False 20180729-05-17-47
+Done processing 20180729-05-17-47 
+ 
+Begin processing 20180729-05-17-47
+valueAnalyze = 0 20180729-05-17-48
+varDebug = False 20180729-05-17-48
+Done processing 20180729-05-17-48 
+ 
+Begin processing 20180729-05-42-09
+valueAnalyze = 0 20180729-05-42-10
+varDebug = False 20180729-05-42-10
+Done processing 20180729-05-42-11 
+ 
+Begin processing 20180729-05-54-44
+valueAnalyze = 0 20180729-05-54-45
+varDebug = False 20180729-05-54-46
+Done processing 20180729-05-54-46 
+ 
+Begin processing 20180729-05-54-46
+valueAnalyze = 0 20180729-05-54-47
+varDebug = False 20180729-05-54-47
+Done processing 20180729-05-54-47 
+ 
+Begin processing 20180729-05-54-50
+valueAnalyze = 0 20180729-05-54-51
+varDebug = False 20180729-05-54-51
+Done processing 20180729-05-54-51 
+ 
+Begin processing 20180729-05-54-51
+valueAnalyze = 0 20180729-05-54-53
+varDebug = False 20180729-05-54-53
+Done processing 20180729-05-54-53 
+ 
+Begin processing 20180729-05-54-55
+valueAnalyze = 0 20180729-05-54-56
+varDebug = False 20180729-05-54-57
+Done processing 20180729-05-54-57 
+ 
+Begin processing 20180729-05-54-57
+valueAnalyze = 0 20180729-05-54-58
+varDebug = False 20180729-05-54-58
+Done processing 20180729-05-54-58 
+ 
+Begin processing 20180729-06-16-30
+valueAnalyze = 0 20180729-06-16-31
+varDebug = False 20180729-06-16-32
+Done processing 20180729-06-16-32 
+ 
+Begin processing 20180729-06-16-36
+valueAnalyze = 0 20180729-06-16-37
+varDebug = False 20180729-06-16-37
+Done processing 20180729-06-16-37 
+ 
+Begin processing 20180729-06-16-39
+valueAnalyze = 0 20180729-06-16-40
+varDebug = False 20180729-06-16-41
+Done processing 20180729-06-16-41 
+ 
+Begin processing 20180729-06-16-43
+valueAnalyze = 0 20180729-06-16-44
+varDebug = False 20180729-06-16-44
+Done processing 20180729-06-16-44 
+ 
+Begin processing 20180729-08-31-24
+valueAnalyze = 0 20180729-08-31-25
+varDebug = False 20180729-08-31-26
+Done processing 20180729-08-31-26 
+ 
+Begin processing 20180729-08-31-28
+valueAnalyze = 0 20180729-08-31-29
+varDebug = False 20180729-08-31-29
+Done processing 20180729-08-31-29 
+ 
+Begin processing 20180729-08-40-55
+valueAnalyze = 0 20180729-08-40-56
+varDebug = False 20180729-08-40-56
+Done processing 20180729-08-40-56 
+ 
+Begin processing 20180729-08-41-11
+valueAnalyze = 0 20180729-08-41-12
+varDebug = False 20180729-08-41-13
+Done processing 20180729-08-41-13 
+ 
+Begin processing 20180729-08-41-36
+valueAnalyze = 0 20180729-08-41-38
+varDebug = False 20180729-08-41-38
+Done processing 20180729-08-41-38 
+ 
+Begin processing 20180729-08-41-41
+valueAnalyze = 0 20180729-08-41-42
+varDebug = False 20180729-08-41-42
+Done processing 20180729-08-41-42 
+ 
+Begin processing 20180729-08-41-44
+valueAnalyze = 0 20180729-08-41-45
+varDebug = False 20180729-08-41-46
+Done processing 20180729-08-41-46 
+ 
+Begin processing 20180729-08-45-44
+valueAnalyze = 0 20180729-08-45-45
+varDebug = False 20180729-08-45-45
+Done processing 20180729-08-45-45 
+ 
+Begin processing 20180729-08-52-30
+valueAnalyze = 0 20180729-08-52-31
+varDebug = False 20180729-08-52-31
+Done processing 20180729-08-52-31 
+ 
+Begin processing 20180729-08-52-31
+valueAnalyze = 0 20180729-08-52-32
+varDebug = False 20180729-08-52-33
+Done processing 20180729-08-52-33 
+ 
+Begin processing 20180729-08-52-44
+valueAnalyze = 0 20180729-08-52-46
+varDebug = False 20180729-08-52-46
+Done processing 20180729-08-52-46 
+ 
+Begin processing 20180729-08-52-46
+valueAnalyze = 0 20180729-08-52-47
+varDebug = False 20180729-08-52-47
+Done processing 20180729-08-52-48 
+ 
+Begin processing 20180729-08-53-05
+valueAnalyze = 0 20180729-08-53-06
+varDebug = False 20180729-08-53-07
+Done processing 20180729-08-53-07 
+ 
+Begin processing 20180729-08-53-07
+valueAnalyze = 0 20180729-08-53-08
+varDebug = False 20180729-08-53-08
+Done processing 20180729-08-53-08 
+ 
+Begin processing 20180729-08-53-09
+valueAnalyze = 0 20180729-08-53-10
+varDebug = False 20180729-08-53-11
+Done processing 20180729-08-53-11 
+ 
+Begin processing 20180729-08-53-11
+valueAnalyze = 0 20180729-08-53-12
+varDebug = False 20180729-08-53-12
+Done processing 20180729-08-53-12 
+ 
+Begin processing 20180729-08-53-14
+valueAnalyze = 0 20180729-08-53-16
+varDebug = False 20180729-08-53-16
+Done processing 20180729-08-53-16 
+ 
+Begin processing 20180729-08-53-16
+valueAnalyze = 0 20180729-08-53-17
+varDebug = False 20180729-08-53-17
+Done processing 20180729-08-53-17 
+ 
+Begin processing 20180729-08-54-07
+valueAnalyze = 0 20180729-08-54-08
+varDebug = False 20180729-08-54-08
+Done processing 20180729-08-54-08 
+ 
+Begin processing 20180729-08-54-08
+valueAnalyze = 0 20180729-08-54-09
+varDebug = False 20180729-08-54-10
+Done processing 20180729-08-54-10 
+ 
+Begin processing 20180729-08-54-13
+valueAnalyze = 0 20180729-08-54-14
+varDebug = False 20180729-08-54-14
+Done processing 20180729-08-54-14 
+ 
+Begin processing 20180729-08-54-14
+valueAnalyze = 0 20180729-08-54-16
+varDebug = False 20180729-08-54-16
+Done processing 20180729-08-54-16 
+ 
+Begin processing 20180729-08-54-17
+valueAnalyze = 0 20180729-08-54-18
+varDebug = False 20180729-08-54-19
+Done processing 20180729-08-54-19 
+ 
+Begin processing 20180729-08-54-19
+valueAnalyze = 0 20180729-08-54-20
+varDebug = False 20180729-08-54-20
+Done processing 20180729-08-54-20 
+ 
+Begin processing 20180729-08-54-22
+valueAnalyze = 0 20180729-08-54-23
+varDebug = False 20180729-08-54-23
+Done processing 20180729-08-54-23 
+ 
+Begin processing 20180729-08-54-23
+valueAnalyze = 0 20180729-08-54-25
+varDebug = False 20180729-08-54-25
+Done processing 20180729-08-54-25 
+ 
+Begin processing 20180729-08-54-26
+valueAnalyze = 0 20180729-08-54-27
+varDebug = False 20180729-08-54-27
+Done processing 20180729-08-54-27 
+ 
+Begin processing 20180729-08-54-27
+valueAnalyze = 0 20180729-08-54-29
+varDebug = False 20180729-08-54-29
+Done processing 20180729-08-54-29 
+ 
+Begin processing 20180729-08-54-30
+valueAnalyze = 0 20180729-08-54-31
+varDebug = False 20180729-08-54-31
+Done processing 20180729-08-54-32 
+ 
+Begin processing 20180729-08-54-32
+valueAnalyze = 0 20180729-08-54-33
+varDebug = False 20180729-08-54-33
+Done processing 20180729-08-54-33 
+ 
+Begin processing 20180729-08-54-35
+valueAnalyze = 0 20180729-08-54-36
+varDebug = False 20180729-08-54-37
+Done processing 20180729-08-54-37 
+ 
+Begin processing 20180729-08-54-37
+valueAnalyze = 0 20180729-08-54-38
+varDebug = False 20180729-08-54-38
+Done processing 20180729-08-54-38 
+ 
+Begin processing 20180729-08-54-40
+valueAnalyze = 0 20180729-08-54-41
+varDebug = False 20180729-08-54-41
+Done processing 20180729-08-54-41 
+ 
+Begin processing 20180729-08-54-41
+valueAnalyze = 0 20180729-08-54-42
+varDebug = False 20180729-08-54-42
+Done processing 20180729-08-54-43 
+ 
+Begin processing 20180729-08-54-44
+valueAnalyze = 0 20180729-08-54-45
+varDebug = False 20180729-08-54-46
+Done processing 20180729-08-54-46 
+ 
+Begin processing 20180729-08-54-46
+valueAnalyze = 0 20180729-08-54-47
+varDebug = False 20180729-08-54-47
+Done processing 20180729-08-54-47 
+ 
+Begin processing 20180729-08-54-48
+valueAnalyze = 0 20180729-08-54-49
+varDebug = False 20180729-08-54-49
+Done processing 20180729-08-54-49 
+ 
+Begin processing 20180729-08-54-49
+valueAnalyze = 0 20180729-08-54-50
+varDebug = False 20180729-08-54-50
+Done processing 20180729-08-54-51 
+ 
+Begin processing 20180729-08-54-56
+valueAnalyze = 0 20180729-08-54-58
+varDebug = True 20180729-08-54-58
+Done processing 20180729-08-54-58 
+ 
+Begin processing 20180729-08-54-58
+valueAnalyze = 0 20180729-08-54-59
+varDebug = True 20180729-08-55-00
+Done processing 20180729-08-55-00 
+ 
+Begin processing 20180729-09-20-00
+valueAnalyze = 0 20180729-09-20-01
+varDebug = False 20180729-09-20-01
+Done processing 20180729-09-20-02 
+ 
+Begin processing 20180729-09-20-07
+valueAnalyze = 0 20180729-09-20-08
+varDebug = False 20180729-09-20-08
+Done processing 20180729-09-20-08 
+ 
+Begin processing 20180729-09-20-19
+valueAnalyze = 0 20180729-09-20-20
+varDebug = False 20180729-09-20-21
+Done processing 20180729-09-20-21 
+ 
+Begin processing 20180729-09-20-22
+valueAnalyze = 0 20180729-09-20-24
+varDebug = False 20180729-09-20-24
+Done processing 20180729-09-20-24 
+ 
+Begin processing 20180729-09-20-25
+valueAnalyze = 0 20180729-09-20-26
+varDebug = False 20180729-09-20-26
+Done processing 20180729-09-20-26 
+ 
+Begin processing 20180729-09-20-27
+valueAnalyze = 0 20180729-09-20-28
+varDebug = False 20180729-09-20-28
+Done processing 20180729-09-20-28 
+ 
+Begin processing 20180729-09-21-03
+valueAnalyze = 0 20180729-09-21-04
+varDebug = False 20180729-09-21-04
+Done processing 20180729-09-21-04 
+ 
+Begin processing 20180729-09-21-09
+valueAnalyze = 0 20180729-09-21-10
+varDebug = False 20180729-09-21-10
+Done processing 20180729-09-21-11 
+ 
+Begin processing 20180729-09-36-00
+valueAnalyze = 0 20180729-09-36-01
+varDebug = False 20180729-09-36-01
+Done processing 20180729-09-36-01 
+ 
+Begin processing 20180729-09-36-04
+valueAnalyze = 0 20180729-09-36-05
+varDebug = False 20180729-09-36-05
+Done processing 20180729-09-36-05 
+ 
+Begin processing 20180729-09-36-05
+valueAnalyze = 0 20180729-09-36-07
+varDebug = False 20180729-09-36-07
+Done processing 20180729-09-36-07 
+ 
+Begin processing 20180729-09-36-07
+valueAnalyze = 0 20180729-09-36-08
+varDebug = False 20180729-09-36-08
+Done processing 20180729-09-36-08 
+ 
+Begin processing 20180729-09-36-09
+valueAnalyze = 0 20180729-09-36-10
+varDebug = False 20180729-09-36-11
+Done processing 20180729-09-36-11 
+ 
+Begin processing 20180729-09-36-11
+valueAnalyze = 0 20180729-09-36-12
+varDebug = False 20180729-09-36-12
+Done processing 20180729-09-36-12 
+ 
+Begin processing 20180729-09-36-17
+valueAnalyze = 0 20180729-09-36-18
+varDebug = False 20180729-09-36-18
+Done processing 20180729-09-36-18 
+ 
+Begin processing 20180729-09-36-18
+valueAnalyze = 0 20180729-09-36-19
+varDebug = False 20180729-09-36-20
+Done processing 20180729-09-36-20 
+ 
+Begin processing 20180729-09-36-20
+valueAnalyze = 0 20180729-09-36-21
+varDebug = False 20180729-09-36-21
+Done processing 20180729-09-36-21 
+ 
+Begin processing 20180729-09-36-21
+valueAnalyze = 0 20180729-09-36-23
+varDebug = False 20180729-09-36-23
+Done processing 20180729-09-36-23 
+ 
+Begin processing 20180729-09-36-23
+valueAnalyze = 0 20180729-09-36-24
+varDebug = False 20180729-09-36-24
+Done processing 20180729-09-36-25 
+ 
+Begin processing 20180729-09-36-25
+valueAnalyze = 0 20180729-09-36-26
+varDebug = False 20180729-09-36-26
+Done processing 20180729-09-36-26 
+ 
+Begin processing 20180729-09-36-26
+valueAnalyze = 0 20180729-09-36-27
+varDebug = False 20180729-09-36-28
+Done processing 20180729-09-36-28 
+ 
+Begin processing 20180729-09-36-28
+valueAnalyze = 0 20180729-09-36-29
+varDebug = False 20180729-09-36-29
+Done processing 20180729-09-36-29 
+ 
+Begin processing 20180729-09-36-32
+valueAnalyze = 0 20180729-09-36-33
+varDebug = False 20180729-09-36-34
+Done processing 20180729-09-36-34 
+ 
+Begin processing 20180729-09-36-34
+valueAnalyze = 0 20180729-09-36-35
+varDebug = False 20180729-09-36-35
+Done processing 20180729-09-36-35 
+ 
+Begin processing 20180729-09-36-35
+valueAnalyze = 0 20180729-09-36-37
+varDebug = False 20180729-09-36-37
+Done processing 20180729-09-36-37 
+ 
+Begin processing 20180729-09-36-37
+valueAnalyze = 0 20180729-09-36-38
+varDebug = False 20180729-09-36-38
+Done processing 20180729-09-36-38 
+ 
+Begin processing 20180729-09-36-38
+valueAnalyze = 0 20180729-09-36-40
+varDebug = False 20180729-09-36-40
+Done processing 20180729-09-36-40 
+ 
+Begin processing 20180729-09-36-41
+valueAnalyze = 0 20180729-09-36-43
+varDebug = False 20180729-09-36-43
+Done processing 20180729-09-36-43 
+ 
+Begin processing 20180729-09-36-43
+valueAnalyze = 0 20180729-09-36-44
+varDebug = False 20180729-09-36-44
+Done processing 20180729-09-36-44 
+ 
+Begin processing 20180729-09-36-44
+valueAnalyze = 0 20180729-09-36-46
+varDebug = False 20180729-09-36-46
+Done processing 20180729-09-36-46 
+ 
+Begin processing 20180729-09-36-46
+valueAnalyze = 0 20180729-09-36-47
+varDebug = False 20180729-09-36-47
+Done processing 20180729-09-36-48 
+ 
+Begin processing 20180729-09-36-48
+valueAnalyze = 0 20180729-09-36-49
+varDebug = False 20180729-09-36-49
+Done processing 20180729-09-36-49 
+ 
+Begin processing 20180729-09-36-49
+valueAnalyze = 0 20180729-09-36-50
+varDebug = False 20180729-09-36-51
+Done processing 20180729-09-36-51 
+ 
+Begin processing 20180729-09-36-51
+valueAnalyze = 0 20180729-09-36-52
+varDebug = False 20180729-09-36-52
+Done processing 20180729-09-36-52 
+ 
+Begin processing 20180729-09-36-52
+valueAnalyze = 0 20180729-09-36-53
+varDebug = False 20180729-09-36-54
+Done processing 20180729-09-36-54 
+ 
+Begin processing 20180729-09-36-54
+valueAnalyze = 0 20180729-09-36-55
+varDebug = False 20180729-09-36-55
+Done processing 20180729-09-36-55 
+ 
+Begin processing 20180729-09-45-50
+valueAnalyze = 0 20180729-09-45-51
+varDebug = False 20180729-09-45-52
+Done processing 20180729-09-45-52 
+ 
+Begin processing 20180729-09-45-54
+valueAnalyze = 0 20180729-09-45-55
+varDebug = False 20180729-09-45-56
+Done processing 20180729-09-45-56 
+ 
+Begin processing 20180729-09-53-04
+valueAnalyze = 0 20180729-09-53-05
+varDebug = False 20180729-09-53-05
+Done processing 20180729-09-53-06 
+ 
+Begin processing 20180729-09-53-13
+valueAnalyze = 0 20180729-09-53-14
+varDebug = False 20180729-09-53-15
+Done processing 20180729-09-53-15 
+ 
+Begin processing 20180729-09-53-16
+valueAnalyze = 0 20180729-09-53-17
+varDebug = False 20180729-09-53-17
+Done processing 20180729-09-53-17 
+ 
+Begin processing 20180729-10-00-12
+valueAnalyze = 0 20180729-10-00-13
+varDebug = False 20180729-10-00-13
+Done processing 20180729-10-00-14 
+ 
+Begin processing 20180729-10-00-14
+valueAnalyze = 0 20180729-10-00-15
+varDebug = False 20180729-10-00-15
+Done processing 20180729-10-00-15 
+ 
+Begin processing 20180729-10-00-15
+valueAnalyze = 0 20180729-10-00-16
+varDebug = False 20180729-10-00-17
+Done processing 20180729-10-00-17 
+ 
+Begin processing 20180729-10-00-17
+valueAnalyze = 0 20180729-10-00-18
+varDebug = False 20180729-10-00-18
+Done processing 20180729-10-00-18 
+ 
+Begin processing 20180729-10-03-40
+valueAnalyze = 0 20180729-10-03-41
+varDebug = False 20180729-10-03-41
+Done processing 20180729-10-03-42 
+ 
+Begin processing 20180729-10-03-42
+valueAnalyze = 0 20180729-10-03-43
+varDebug = False 20180729-10-03-43
+Done processing 20180729-10-03-43 
+ 
+Begin processing 20180729-10-03-50
+valueAnalyze = 0 20180729-10-03-51
+varDebug = False 20180729-10-03-51
+Done processing 20180729-10-03-51 
+ 
+Begin processing 20180729-10-03-51
+valueAnalyze = 0 20180729-10-03-52
+varDebug = False 20180729-10-03-52
+Done processing 20180729-10-03-53 
+ 
+Begin processing 20180729-10-03-53
+valueAnalyze = 0 20180729-10-03-54
+varDebug = False 20180729-10-03-54
+Done processing 20180729-10-03-54 
+ 
+Begin processing 20180729-10-03-57
+valueAnalyze = 0 20180729-10-03-58
+varDebug = False 20180729-10-03-58
+Done processing 20180729-10-03-58 
+ 
+Begin processing 20180729-10-03-58
+valueAnalyze = 0 20180729-10-03-59
+varDebug = False 20180729-10-03-59
+Done processing 20180729-10-04-00 
+ 
+Begin processing 20180729-10-04-04
+valueAnalyze = 0 20180729-10-04-06
+varDebug = False 20180729-10-04-06
+Done processing 20180729-10-04-06 
+ 
+Begin processing 20180729-10-04-06
+valueAnalyze = 0 20180729-10-04-07
+varDebug = False 20180729-10-04-07
+Done processing 20180729-10-04-07 
+ 
+Begin processing 20180729-10-04-13
+valueAnalyze = 0 20180729-10-04-14
+varDebug = False 20180729-10-04-15
+Done processing 20180729-10-04-15 
+ 
+Begin processing 20180729-10-04-15
+valueAnalyze = 0 20180729-10-04-16
+varDebug = False 20180729-10-04-16
+Done processing 20180729-10-04-16 
+ 
+Begin processing 20180729-10-04-17
+valueAnalyze = 0 20180729-10-04-18
+varDebug = False 20180729-10-04-19
+Done processing 20180729-10-04-19 
+ 
+Begin processing 20180729-10-04-19
+valueAnalyze = 0 20180729-10-04-20
+varDebug = False 20180729-10-04-20
+Done processing 20180729-10-04-20 
+ 
+Begin processing 20180729-10-16-06
+valueAnalyze = 0 20180729-10-16-07
+varDebug = False 20180729-10-16-08
+Done processing 20180729-10-16-08 
+ 
+Begin processing 20180729-10-16-08
+valueAnalyze = 0 20180729-10-16-09
+varDebug = False 20180729-10-16-09
+Done processing 20180729-10-16-09 
+ 
+Begin processing 20180729-10-22-11
+valueAnalyze = 0 20180729-10-22-12
+varDebug = False 20180729-10-22-13
+Done processing 20180729-10-22-13 
+ 
+Begin processing 20180729-10-22-15
+valueAnalyze = 0 20180729-10-22-17
+varDebug = False 20180729-10-22-17
+Done processing 20180729-10-22-17 
+ 
+Begin processing 20180729-10-22-18
+valueAnalyze = 0 20180729-10-22-19
+varDebug = False 20180729-10-22-19
+Done processing 20180729-10-22-19 
+ 
+Begin processing 20180729-10-22-21
+valueAnalyze = 0 20180729-10-22-22
+varDebug = False 20180729-10-22-22
+Done processing 20180729-10-22-22 
+ 
+Begin processing 20180729-10-22-23
+valueAnalyze = 0 20180729-10-22-25
+varDebug = False 20180729-10-22-25
+Done processing 20180729-10-22-25 
+ 
+Begin processing 20180729-10-22-27
+valueAnalyze = 0 20180729-10-22-28
+varDebug = False 20180729-10-22-28
+Done processing 20180729-10-22-28 
+ 
+Begin processing 20180729-10-25-26
+valueAnalyze = 0 20180729-10-25-28
+varDebug = False 20180729-10-25-28
+Done processing 20180729-10-25-28 
+ 
+Begin processing 20180729-10-25-41
+valueAnalyze = 0 20180729-10-25-42
+varDebug = False 20180729-10-25-42
+Done processing 20180729-10-25-42 
+ 
+Begin processing 20180729-10-25-43
+valueAnalyze = 0 20180729-10-25-44
+varDebug = False 20180729-10-25-45
+Done processing 20180729-10-25-45 
+ 
+Begin processing 20180729-10-25-46
+valueAnalyze = 0 20180729-10-25-47
+varDebug = False 20180729-10-25-47
+Done processing 20180729-10-25-47 
+ 
+Begin processing 20180729-10-27-25
+valueAnalyze = 0 20180729-10-27-26
+varDebug = False 20180729-10-27-26
+Done processing 20180729-10-27-26 
+ 
+Begin processing 20180729-10-27-28
+valueAnalyze = 0 20180729-10-27-29
+varDebug = False 20180729-10-27-29
+Done processing 20180729-10-27-29 
+ 
+Begin processing 20180729-10-27-32
+valueAnalyze = 0 20180729-10-27-33
+varDebug = False 20180729-10-27-33
+Done processing 20180729-10-27-33 
+ 
+Begin processing 20180729-10-39-56
+valueAnalyze = 0 20180729-10-39-57
+varDebug = False 20180729-10-39-57
+Done processing 20180729-10-39-58 
+ 
+Begin processing 20180729-10-40-03
+valueAnalyze = 0 20180729-10-40-04
+varDebug = False 20180729-10-40-04
+Done processing 20180729-10-40-04 
+ 
+Begin processing 20180729-11-02-55
+valueAnalyze = 0 20180729-11-02-56
+varDebug = False 20180729-11-02-57
+Done processing 20180729-11-02-57 
+ 
+Begin processing 20180729-11-03-36
+valueAnalyze = 0 20180729-11-03-37
+varDebug = False 20180729-11-03-37
+Done processing 20180729-11-03-37 
+ 
+Begin processing 20180729-11-03-39
+valueAnalyze = 0 20180729-11-03-40
+varDebug = False 20180729-11-03-40
+Done processing 20180729-11-03-40 
+ 
+Begin processing 20180729-11-06-05
+valueAnalyze = 0 20180729-11-06-06
+varDebug = False 20180729-11-06-06
+Done processing 20180729-11-06-06 
+ 
+Begin processing 20180729-11-06-10
+valueAnalyze = 0 20180729-11-06-11
+varDebug = False 20180729-11-06-11
+Done processing 20180729-11-06-11 
+ 
+Begin processing 20180729-11-06-11
+valueAnalyze = 0 20180729-11-06-13
+varDebug = False 20180729-11-06-13
+Done processing 20180729-11-06-13 
+ 
+Begin processing 20180729-11-06-13
+valueAnalyze = 0 20180729-11-06-14
+varDebug = False 20180729-11-06-14
+Done processing 20180729-11-06-14 
+ 
+Begin processing 20180729-11-06-14
+valueAnalyze = 0 20180729-11-06-16
+varDebug = False 20180729-11-06-16
+Done processing 20180729-11-06-16 
+ 
+Begin processing 20180729-11-06-17
+valueAnalyze = 0 20180729-11-06-18
+varDebug = False 20180729-11-06-18
+Done processing 20180729-11-06-18 
+ 
+Begin processing 20180729-11-06-18
+valueAnalyze = 0 20180729-11-06-19
+varDebug = False 20180729-11-06-20
+Done processing 20180729-11-06-20 
+ 
+Begin processing 20180729-11-06-20
+valueAnalyze = 0 20180729-11-06-21
+varDebug = False 20180729-11-06-21
+Done processing 20180729-11-06-21 
+ 
+Begin processing 20180729-11-06-21
+valueAnalyze = 0 20180729-11-06-22
+varDebug = False 20180729-11-06-23
+Done processing 20180729-11-06-23 
+ 
+Begin processing 20180729-11-06-23
+valueAnalyze = 0 20180729-11-06-24
+varDebug = False 20180729-11-06-24
+Done processing 20180729-11-06-24 
+ 
+Begin processing 20180729-11-06-24
+valueAnalyze = 0 20180729-11-06-26
+varDebug = False 20180729-11-06-26
+Done processing 20180729-11-06-26 
+ 
+Begin processing 20180729-11-06-26
+valueAnalyze = 0 20180729-11-06-27
+varDebug = False 20180729-11-06-27
+Done processing 20180729-11-06-27 
+ 
+Begin processing 20180729-11-06-27
+valueAnalyze = 0 20180729-11-06-29
+varDebug = False 20180729-11-06-29
+Done processing 20180729-11-06-29 
+ 
+Begin processing 20180729-11-06-29
+valueAnalyze = 0 20180729-11-06-30
+varDebug = False 20180729-11-06-30
+Done processing 20180729-11-06-31 
+ 
+Begin processing 20180729-11-06-31
+valueAnalyze = 0 20180729-11-06-32
+varDebug = False 20180729-11-06-32
+Done processing 20180729-11-06-32 
+ 
+Begin processing 20180729-11-06-32
+valueAnalyze = 0 20180729-11-06-33
+varDebug = False 20180729-11-06-34
+Done processing 20180729-11-06-34 
+ 
+Begin processing 20180729-11-06-34
+valueAnalyze = 0 20180729-11-06-35
+varDebug = False 20180729-11-06-35
+Done processing 20180729-11-06-35 
+ 
+Begin processing 20180729-11-06-40
+valueAnalyze = 0 20180729-11-06-41
+varDebug = False 20180729-11-06-42
+Done processing 20180729-11-06-42 
+ 
+Begin processing 20180729-11-06-42
+valueAnalyze = 0 20180729-11-06-43
+varDebug = False 20180729-11-06-43
+Done processing 20180729-11-06-43 
+ 
+Begin processing 20180729-11-06-44
+valueAnalyze = 0 20180729-11-06-45
+varDebug = False 20180729-11-06-45
+Done processing 20180729-11-06-45 
+ 
+Begin processing 20180729-11-06-45
+valueAnalyze = 0 20180729-11-06-47
+varDebug = False 20180729-11-06-47
+Done processing 20180729-11-06-47 
+ 
+Begin processing 20180729-11-06-48
+valueAnalyze = 0 20180729-11-06-50
+varDebug = False 20180729-11-06-50
+Done processing 20180729-11-06-50 
+ 
+Begin processing 20180729-11-06-50
+valueAnalyze = 0 20180729-11-06-51
+varDebug = False 20180729-11-06-51
+Done processing 20180729-11-06-51 
+ 
+Begin processing 20180729-11-06-54
+valueAnalyze = 0 20180729-11-06-55
+varDebug = False 20180729-11-06-55
+Done processing 20180729-11-06-55 
+ 
+Begin processing 20180729-11-06-55
+valueAnalyze = 0 20180729-11-06-56
+varDebug = False 20180729-11-06-57
+Done processing 20180729-11-06-57 
+ 
+Begin processing 20180729-11-06-59
+valueAnalyze = 0 20180729-11-07-00
+varDebug = False 20180729-11-07-01
+Done processing 20180729-11-07-01 
+ 
+Begin processing 20180729-11-07-01
+valueAnalyze = 0 20180729-11-07-02
+varDebug = False 20180729-11-07-02
+Done processing 20180729-11-07-02 
+ 
+Begin processing 20180729-11-07-03
+valueAnalyze = 0 20180729-11-07-04
+varDebug = False 20180729-11-07-05
+Done processing 20180729-11-07-05 
+ 
+Begin processing 20180729-11-07-05
+valueAnalyze = 0 20180729-11-07-06
+varDebug = False 20180729-11-07-06
+Done processing 20180729-11-07-06 
+ 
+Begin processing 20180729-11-07-18
+valueAnalyze = 0 20180729-11-07-19
+varDebug = False 20180729-11-07-19
+Done processing 20180729-11-07-19 
+ 
+Begin processing 20180729-11-07-19
+valueAnalyze = 0 20180729-11-07-20
+varDebug = False 20180729-11-07-21
+Done processing 20180729-11-07-21 
+ 
+Begin processing 20180729-11-07-21
+valueAnalyze = 0 20180729-11-07-22
+varDebug = False 20180729-11-07-22
+Done processing 20180729-11-07-22 
+ 
+Begin processing 20180729-11-07-22
+valueAnalyze = 0 20180729-11-07-24
+varDebug = False 20180729-11-07-24
+Done processing 20180729-11-07-24 
+ 
+Begin processing 20180729-11-07-24
+valueAnalyze = 0 20180729-11-07-25
+varDebug = False 20180729-11-07-25
+Done processing 20180729-11-07-26 
+ 
+Begin processing 20180729-11-07-26
+valueAnalyze = 0 20180729-11-07-27
+varDebug = False 20180729-11-07-27
+Done processing 20180729-11-07-27 
+ 
+Begin processing 20180729-11-07-27
+valueAnalyze = 0 20180729-11-07-28
+varDebug = False 20180729-11-07-29
+Done processing 20180729-11-07-29 
+ 
+Begin processing 20180729-11-07-29
+valueAnalyze = 0 20180729-11-07-30
+varDebug = False 20180729-11-07-30
+Done processing 20180729-11-07-30 
+ 
+Begin processing 20180729-11-07-31
+valueAnalyze = 0 20180729-11-07-32
+varDebug = False 20180729-11-07-32
+Done processing 20180729-11-07-33 
+ 
+Begin processing 20180729-11-07-33
+valueAnalyze = 0 20180729-11-07-34
+varDebug = False 20180729-11-07-34
+Done processing 20180729-11-07-34 
+ 
+Begin processing 20180729-11-07-34
+valueAnalyze = 0 20180729-11-07-35
+varDebug = False 20180729-11-07-36
+Done processing 20180729-11-07-36 
+ 
+Begin processing 20180729-11-07-36
+valueAnalyze = 0 20180729-11-07-37
+varDebug = False 20180729-11-07-37
+Done processing 20180729-11-07-37 
+ 
+Begin processing 20180729-11-07-37
+valueAnalyze = 0 20180729-11-07-38
+varDebug = False 20180729-11-07-39
+Done processing 20180729-11-07-39 
+ 
+Begin processing 20180729-11-07-39
+valueAnalyze = 0 20180729-11-07-40
+varDebug = False 20180729-11-07-40
+Done processing 20180729-11-07-40 
+ 
+Begin processing 20180729-11-07-40
+valueAnalyze = 0 20180729-11-07-41
+varDebug = False 20180729-11-07-42
+Done processing 20180729-11-07-42 
+ 
+Begin processing 20180729-11-07-42
+valueAnalyze = 0 20180729-11-07-43
+varDebug = False 20180729-11-07-43
+Done processing 20180729-11-07-43 
+ 
+Begin processing 20180729-11-07-43
+valueAnalyze = 0 20180729-11-07-45
+varDebug = False 20180729-11-07-45
+Done processing 20180729-11-07-45 
+ 
+Begin processing 20180729-11-07-45
+valueAnalyze = 0 20180729-11-07-46
+varDebug = False 20180729-11-07-46
+Done processing 20180729-11-07-46 
+ 
+Begin processing 20180729-11-07-46
+valueAnalyze = 0 20180729-11-07-48
+varDebug = False 20180729-11-07-48
+Done processing 20180729-11-07-48 
+ 
+Begin processing 20180729-11-07-48
+valueAnalyze = 0 20180729-11-07-49
+varDebug = False 20180729-11-07-49
+Done processing 20180729-11-07-50 
+ 
+Begin processing 20180729-11-07-50
+valueAnalyze = 0 20180729-11-07-51
+varDebug = False 20180729-11-07-51
+Done processing 20180729-11-07-51 
+ 
+Begin processing 20180729-11-07-51
+valueAnalyze = 0 20180729-11-07-52
+varDebug = False 20180729-11-07-53
+Done processing 20180729-11-07-53 
+ 
+Begin processing 20180729-11-07-53
+valueAnalyze = 0 20180729-11-07-54
+varDebug = False 20180729-11-07-54
+Done processing 20180729-11-07-54 
+ 
+Begin processing 20180729-11-07-54
+valueAnalyze = 0 20180729-11-07-55
+varDebug = False 20180729-11-07-56
+Done processing 20180729-11-07-56 
+ 
+Begin processing 20180729-11-07-56
+valueAnalyze = 0 20180729-11-07-57
+varDebug = False 20180729-11-07-57
+Done processing 20180729-11-07-57 
+ 
+Begin processing 20180729-11-07-58
+valueAnalyze = 0 20180729-11-07-59
+varDebug = False 20180729-11-07-59
+Done processing 20180729-11-07-59 
+ 
+Begin processing 20180729-11-07-59
+valueAnalyze = 0 20180729-11-08-01
+varDebug = False 20180729-11-08-01
+Done processing 20180729-11-08-01 
+ 
+Begin processing 20180729-11-08-01
+valueAnalyze = 0 20180729-11-08-02
+varDebug = False 20180729-11-08-02
+Done processing 20180729-11-08-02 
+ 
+Begin processing 20180729-11-08-02
+valueAnalyze = 0 20180729-11-08-04
+varDebug = False 20180729-11-08-04
+Done processing 20180729-11-08-04 
+ 
+Begin processing 20180729-11-08-04
+valueAnalyze = 0 20180729-11-08-05
+varDebug = False 20180729-11-08-05
+Done processing 20180729-11-08-06 
+ 
+Begin processing 20180729-11-08-06
+valueAnalyze = 0 20180729-11-08-07
+varDebug = False 20180729-11-08-07
+Done processing 20180729-11-08-07 
+ 
+Begin processing 20180729-11-08-07
+valueAnalyze = 0 20180729-11-08-08
+varDebug = False 20180729-11-08-09
+Done processing 20180729-11-08-09 
+ 
+Begin processing 20180729-11-08-09
+valueAnalyze = 0 20180729-11-08-10
+varDebug = False 20180729-11-08-10
+Done processing 20180729-11-08-10 
+ 
+Begin processing 20180729-11-08-10
+valueAnalyze = 0 20180729-11-08-11
+varDebug = False 20180729-11-08-12
+Done processing 20180729-11-08-12 
+ 
+Begin processing 20180729-11-08-12
+valueAnalyze = 0 20180729-11-08-13
+varDebug = False 20180729-11-08-13
+Done processing 20180729-11-08-13 
+ 
+Begin processing 20180729-11-08-13
+valueAnalyze = 0 20180729-11-08-14
+varDebug = False 20180729-11-08-15
+Done processing 20180729-11-08-15 
+ 
+Begin processing 20180729-11-08-15
+valueAnalyze = 0 20180729-11-08-16
+varDebug = False 20180729-11-08-16
+Done processing 20180729-11-08-16 
+ 
+Begin processing 20180729-11-08-16
+valueAnalyze = 0 20180729-11-08-18
+varDebug = False 20180729-11-08-18
+Done processing 20180729-11-08-18 
+ 
+Begin processing 20180729-11-08-19
+valueAnalyze = 0 20180729-11-08-20
+varDebug = False 20180729-11-08-20
+Done processing 20180729-11-08-20 
+ 
+Begin processing 20180729-11-08-20
+valueAnalyze = 0 20180729-11-08-21
+varDebug = False 20180729-11-08-22
+Done processing 20180729-11-08-22 
+ 
+Begin processing 20180729-11-08-22
+valueAnalyze = 0 20180729-11-08-24
+varDebug = False 20180729-11-08-24
+Done processing 20180729-11-08-24 
+ 
+Begin processing 20180729-11-08-24
+valueAnalyze = 0 20180729-11-08-25
+varDebug = False 20180729-11-08-25
+Done processing 20180729-11-08-26 
+ 
+Begin processing 20180729-11-08-26
+valueAnalyze = 0 20180729-11-08-27
+varDebug = False 20180729-11-08-27
+Done processing 20180729-11-08-27 
+ 
+Begin processing 20180729-11-08-27
+valueAnalyze = 0 20180729-11-08-28
+varDebug = False 20180729-11-08-29
+Done processing 20180729-11-08-29 
+ 
+Begin processing 20180729-11-08-31
+valueAnalyze = 0 20180729-11-08-32
+varDebug = False 20180729-11-08-33
+Done processing 20180729-11-08-33 
+ 
+Begin processing 20180729-11-08-33
+valueAnalyze = 0 20180729-11-08-34
+varDebug = False 20180729-11-08-34
+Done processing 20180729-11-08-34 
+ 
+Begin processing 20180729-11-08-34
+valueAnalyze = 0 20180729-11-08-35
+varDebug = False 20180729-11-08-36
+Done processing 20180729-11-08-36 
+ 
+Begin processing 20180729-12-50-52
+valueAnalyze = 0 20180729-12-50-54
+varDebug = False 20180729-12-50-54
+Done processing 20180729-12-50-54 
+ 
+Begin processing 20180729-12-50-57
+valueAnalyze = 0 20180729-12-50-58
+varDebug = False 20180729-12-50-59
+Done processing 20180729-12-50-59 
+ 
+Begin processing 20180729-14-50-39
+valueAnalyze = 0 20180729-14-50-40
+varDebug = False 20180729-14-50-40
+Done processing 20180729-14-50-40 
+ 
+Begin processing 20180729-14-50-43
+valueAnalyze = 0 20180729-14-50-44
+varDebug = False 20180729-14-50-45
+Done processing 20180729-14-50-45 
+ 
+Begin processing 20180729-14-50-48
+valueAnalyze = 0 20180729-14-50-49
+varDebug = False 20180729-14-50-49
+Done processing 20180729-14-50-49 
+ 
+Begin processing 20180729-14-52-13
+valueAnalyze = 0 20180729-14-52-14
+varDebug = False 20180729-14-52-15
+Done processing 20180729-14-52-15 
+ 
+Begin processing 20180729-14-52-17
+valueAnalyze = 0 20180729-14-52-19
+varDebug = False 20180729-14-52-19
+Done processing 20180729-14-52-19 
+ 
+Begin processing 20180729-14-54-03
+valueAnalyze = 0 20180729-14-54-04
+varDebug = False 20180729-14-54-04
+Done processing 20180729-14-54-04 
+ 
+Begin processing 20180729-14-54-08
+valueAnalyze = 0 20180729-14-54-09
+varDebug = False 20180729-14-54-09
+Done processing 20180729-14-54-09 
+ 
+Begin processing 20180729-14-54-26
+valueAnalyze = 0 20180729-14-54-27
+varDebug = False 20180729-14-54-27
+Done processing 20180729-14-54-27 
+ 
+Begin processing 20180729-14-54-29
+valueAnalyze = 0 20180729-14-54-30
+varDebug = False 20180729-14-54-30
+Done processing 20180729-14-54-30 
+ 
+Begin processing 20180729-14-54-31
+valueAnalyze = 0 20180729-14-54-32
+varDebug = False 20180729-14-54-32
+Done processing 20180729-14-54-33 
+ 
+Begin processing 20180729-14-54-33
+valueAnalyze = 0 20180729-14-54-34
+varDebug = False 20180729-14-54-34
+Done processing 20180729-14-54-35 
+ 
+Begin processing 20180729-14-54-35
+valueAnalyze = 0 20180729-14-54-36
+varDebug = False 20180729-14-54-37
+Done processing 20180729-14-54-37 
+ 
+Begin processing 20180729-14-54-37
+valueAnalyze = 0 20180729-14-54-38
+varDebug = False 20180729-14-54-39
+Done processing 20180729-14-54-39 
+ 
+Begin processing 20180729-14-54-39
+valueAnalyze = 0 20180729-14-54-40
+varDebug = False 20180729-14-54-40
+Done processing 20180729-14-54-41 
+ 
+Begin processing 20180729-14-54-41
+valueAnalyze = 0 20180729-14-54-42
+varDebug = False 20180729-14-54-42
+Done processing 20180729-14-54-43 
+ 
+Begin processing 20180729-14-54-43
+valueAnalyze = 0 20180729-14-54-44
+varDebug = False 20180729-14-54-45
+Done processing 20180729-14-54-45 
+ 
+Begin processing 20180729-14-54-45
+valueAnalyze = 0 20180729-14-54-46
+varDebug = False 20180729-14-54-47
+Done processing 20180729-14-54-47 
+ 
+Begin processing 20180729-14-54-53
+valueAnalyze = 0 20180729-14-54-54
+varDebug = False 20180729-14-54-54
+Done processing 20180729-14-54-54 
+ 
