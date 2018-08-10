@@ -9,7 +9,8 @@ try:
 except ImportError:
     import FakeRPi.GPIO as GPIO
 
-
+i = 0
+j = 0
 
 GPIO.setmode(GPIO.BOARD)
 GPIO.setwarnings(False)
@@ -23,8 +24,10 @@ cap = cv2.VideoCapture(0)
 cv2.CAP_PROP_FRAME_HEIGHT = 1024
 cv2.CAP_PROP_FRAME_WIDTH = 768
 
+image_location = 'capture.jpg'
 file = open('specs.txt', 'r')
 log = open('log.txt', 'r+')
+
 lines = file.readlines()
 line1 = lines[0] # start_col
 line2 = lines[1] # start_row
@@ -49,6 +52,7 @@ lower_v = int( line8[12] + line8[13] + line8[14])
 upper_h = int( line9[12] + line9[13] + line9[14])
 upper_s = int( line10[12] + line10[13] + line10[14])
 upper_v = int( line11[12] + line11[13] + line11[14])
+
 print(lines)
 print(line1)
 print(line2)
@@ -73,22 +77,38 @@ print("\n" + str(lower_v))
 print("\n" + str(upper_h))
 print("\n" + str(upper_s))
 print("\n" + str(upper_v))
+
+lower = np.array([lower_h, lower_s, lower_v])
+upper = np.array([upper_h, upper_s, upper_v])
+
 if not cap.isOpened():
     print("Camera Error!")
     log.write("\n camera init error!")
-while True:
-    frame, img = cap.read()
-    lower = np.array([lower_h, lower_s, lower_v])
-    upper = np.array([upper_h, upper_s, upper_v])
-    crop_img = img[start_row:end_row, start_col:end_col]
-    hsv = cv2.cvtColor(crop_img, cv2.COLOR_BGR2HSV)
-    mask = cv2.inRange(hsv, lower, upper)
-    res = cv2.bitwise_and(crop_img, crop_img, mask=mask)
-    (h, s, v) = cv2.split(hsv)
-    print(cv2.split(hsv))
-    cv2.imshow("Mask", mask)
-    cv2.imshow("CROP_IMG", crop_img)
-    cv2.imshow("IMG", res)
+def read_signal(channel):
+    if not GPIO.input(channel):
+        print(GPIO.input(channel))
+        frame, frame =cap.read()
+        cv2.imwrite(image_location, frame)
+
+        return True
+    else:
+        return False
+def image_process(image_location):
+        img = cv2.imread(image_location, cv2.IMREAD_COLOR)
+        crop_img = img[start_row:end_row, start_col:end_col]
+        hsv = cv2.cvtColor(crop_img, cv2.COLOR_BGR2HSV)
+        height, width = hsv.shape[:2]
+        mask = cv2.inRange(hsv, lower, upper)
+        res = cv2.bitwise_and(crop_img, crop_img, mask=mask)
+        h = cv2.split(hsv)[0]
+        s = cv2.split(hsv)[1]
+        v = cv2.split(hsv)[2]
+        cv2.imshow("Mask", mask)
+        cv2.imshow("Crop_IMG", crop_img)
+        cv2.imshow("Result", res)
+while(cap.isOpened()):
+    if read_signal(control_signal):
+        image_process(image_location)
     cv2.waitKey(1)
 cap.release()
 cv2.destroyAllWindows()
