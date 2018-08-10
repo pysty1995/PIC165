@@ -24,6 +24,11 @@ Install via pip:
 	sudo apt-get install libjasper-dev
 	sudo apt-get install libqtgui4
 	sudo apt-get install qt4-dev-tools
-	pip3 install opencv-python 
+	pip3 install opencv-python
+	pip3 install pytesseract
+	sudo apt install libtesseract-dev
+		
 List all packages:
 	dpkg-query -l> /home/pi/Desktop/list_packages.txt
+Measure temp:
+	/opt/vc/bin/vcgencmd measure_temp
