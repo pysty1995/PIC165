@@ -34,3 +34,4 @@ Measure temp:
 	/opt/vc/bin/vcgencmd measure_temp
 https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyqt4
 http://pyqt.sourceforge.net/Docs/PyQt4/qwidget.html
+Read ui file on PyQt: https://pythonspot.com/creating-a-webbrowser-with-python-and-pyqt-tutorial/
