@@ -22,7 +22,7 @@ class Demo(QtGui.QMainWindow):
         self.left = 10
         self.top = 10
         self.width = 860
-        self.height = 800
+        self.height = 750
         self.cap = cv2.VideoCapture(0)
         self.cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 300)
         self.cap.set(cv2.CAP_PROP_FRAME_WIDTH, 400)
@@ -54,6 +54,9 @@ class Demo(QtGui.QMainWindow):
         self.product_ok.move(740, 70)
         self.product_ng.move(740, 85)
         self.product_total.move(750, 100)
+        self.time_stamp = QtGui.QLabel(self)
+        self.time_stamp.setText(QtCore.QDateTime.currentDateTime().toString(QtCore.Qt.DefaultLocaleShortDate))
+        self.time_stamp.move(430, 120)
         self.initUI()
     # Main UI, everything happens here
     def initUI(self):
@@ -122,6 +125,11 @@ class Demo(QtGui.QMainWindow):
         label_analyzed.move(600, 220)
         label_crop = QtGui.QLabel('Crop IMG', self)
         label_crop.move(180, 560)
+
+        # Load image
+        load_image = QtGui.QPushButton('Load Image', self)
+        load_image.move(10, 60)
+        load_image.clicked.connect(self.loadimage)
 
         # Area
         self.show_area.move(50, 130)
@@ -351,12 +359,74 @@ class Demo(QtGui.QMainWindow):
             self.show_area_value = 0
     def show_online(self, state):
         if state == QtCore.Qt.Checked:
-            ret, frame = self.cap.read()
-            cv2.imshow('Video', frame)
-            cv2.waitKey(3)
+            print('Show Video is on')
         else:
-            self.cap.release()
-            cv2.destroyAllWindows()
+            print('Show Video is off')
+
+    def loadimage(self):
+        filename = QtGui.QFileDialog.getOpenFileName(self, 'Choose image', '.',
+                                                     'Images (*.png *.xpm *.jpg *.bmp *.gif) ')
+        if filename:
+            image = QtGui.QImage(filename)
+            if image.isNull():
+                popup = QtGui.QMessageBox(QtGui.QMessageBox.Critical,
+                                          'Image load error',
+                                          'Could not load image',
+                                          QtGui.QMessageBox.Ok,
+                                          self)
+                popup.show()
+            else:
+                self.white = 0
+                self.black = 0
+                image.save('capture.png')
+                img = cv2.imread('capture.png', 1)
+                if (self.show_area_value == 1):
+                    cv2.rectangle(img,
+                                  (self.start_row, self.end_row),
+                                  (self.start_col, self.end_col),
+                                  (0, 255, 0),
+                                  1)
+                else:
+                    pass
+
+                gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+                thr = cv2.adaptiveThreshold(gray, self.threshold_img,
+                                            cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
+                                            cv2.THRESH_BINARY, 7, 1)
+                crop_image = thr[self.end_row:self.end_col,
+                             self.start_row:self.start_col]
+                height = crop_image.shape[0]
+                width = crop_image.shape[1]
+                split = cv2.split(crop_image)
+                data = split[0]
+                for i in range(height):
+                    for j in range(width):
+                        if data[i][j] == 255:
+                            self.black += 1
+                        else:
+                            self.white += 1
+                if self.white > self.black:
+                    self.show_result.setPixmap(QtGui.QPixmap('ok_icon.png'))
+                    self.is_ok = self.is_ok + 1
+                    self.product_ok.setText(str(self.is_ok))
+
+                else:
+                    self.show_result.setPixmap(QtGui.QPixmap('ng_icon.png'))
+                    self.is_ng = self.is_ng + 1
+                    self.product_ng.setText(str(self.is_ng))
+                self.total = self.is_ok + self.is_ng
+                self.product_total.setText(str(self.total))
+                cv2.imwrite('analyzed.png', thr)
+                cv2.imwrite('crop.png', crop_image)
+                self.image_origin.setPixmap(QtGui.QPixmap('capture.png'))
+                self.image_origin.setGeometry(100, 100, 400, 300)
+                self.image_origin.move(1, 250)
+                self.image_analyzed.setPixmap(QtGui.QPixmap('analyzed.png'))
+                self.image_analyzed.setGeometry(100, 100, 400, 300)
+                self.image_analyzed.move(430, 250)
+                self.image_to_analyzed.setPixmap(QtGui.QPixmap('crop.png'))
+                self.image_to_analyzed.setGeometry(100, 100, 200, 300)
+                self.image_to_analyzed.move(100, 500)
 def main():
     app = QtGui.QApplication(sys.argv)
     ex = Demo()
