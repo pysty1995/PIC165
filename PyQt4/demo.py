@@ -271,7 +271,7 @@ class Demo(QtGui.QMainWindow):
         self.white = 0
         self.black = 0
         print('Take picture')
-        img = cv2.imread('ng.png', 1)
+        frame, img = self.cap.read()
         if(self.show_area_value == 1):
             cv2.rectangle(img,
                       (self.start_row, self.end_row),
